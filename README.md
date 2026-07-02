@@ -1,1 +1,2 @@
 # ImperialERA
+The way this mod is intended to be structured, Is for the entire repo to be zipped as the target for upload and use. This means that everything that is currently in this repo is intended for packaging with the mod. 
