@@ -1,0 +1,10 @@
+[
+  {
+    "strName": "Imperial ERA",
+    "strAuthor": "mrcalzon02",
+    "strModURL": "https://github.com/mrcalzon02/ImperialERA",
+    "strGameVersion": "0.15.0.38",
+    "strModVersion": "0.1.0",
+    "strNotes": "Imperial ERA for Ostranauts. This mod folder mirrors the game's StreamingAssets structure so replacement data can be added under data/ and image overrides under images/."
+  }
+]
