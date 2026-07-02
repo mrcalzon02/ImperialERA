@@ -1,176 +1,1077 @@
 [
-    {
-        "strName" : "Onwards And Downwards",
-        "strDesc" : "Tharsis' first 'subscraper' opened for business today at a ribbon-cutting ceremony in downtown Nanxian. The subscraper's unique design, part high-rise building and mine, and with its own self-sustaining internal ecology, has made it famous System-wide. Above ground it would be taller than any building on Earth, and will house over 100,000 people. In a speech, Minister for Urban Planning Chung Yao said \"today, instead of mining gems, we forge our own.\"",
-        "strRegion" : "Tharsis"
-    },
-    {	"strName" : "Syndicate Wars",
-        "strDesc" : "An explosion in Fucheng Road, Heifei, created a grisly scene as four bystanders were killed, and thirteen injured. Surveillance footage shows the bomb thrown from a low-flying skybike driven by persons unknown. The tactic is reminiscent of the 50's Dragon Invasion, the war between rival syndicates the Triads and the Snakeheads.",
-        "strRegion" : "Tharsis"
-    },
-    {	"strName" : "Vanishing Act",
-        "strDesc" : "Dalisay has returned to the public eye as abruptly as she disappeared from it almost four months ago. The film star addressed her fans in a facegram, her first in three months, recounting her visit to the Pavonis Health & Wellness Retreat, which prohibited network access. This would seem to quash fan conspiracy theories that the actress was arrested for protesting against the treatment of Tharsis' refugee population.",
-        "strRegion" : "Tharsis"
-    },
-    {	"strName" : "Breath of Fresh Air",
-        "strDesc" : "New pollution standards from the Ministry of Air and Waste Management will crack down on unlicensed recyclers in outer lines of Tharsis like Xinzhen. Said one citizen, \"They charge us through the nose for our air. Whatever happened to the open air market?\"",
-        "strRegion" : "Tharsis"
-    },
-    {	"strName" : "Recombination",
-        "strDesc" : "Two of the big five agribusinesses on Mars are set to tie the knot, following many years of speculation. When Fa Ming acquires Mouchot Solar, it will become the biggest by far of its competitors, and is poised to become a fully fledged ubercorporation. Tharsis' Minister for Finance dismissed public concerns about Fa Ming's growing monopoly, saying that the corporation has complied with all antitrust regulations.",
-        "strRegion" : "Tharsis"
-    },
-    {	"strName" : "When You're A Jet On A Jet",
-        "strDesc" : "Rival skybike gangs have clashed in a dispute over territory in the Zhoukhou metro station. Eyewitness coverage shows local gang the Immortals in a roving gunbattle with immigrant gang the Hell's Angels, weaving in between commuter trains at incredible speeds. Local authorities 'Expol' stated there were no civilian casualties.",
-        "strRegion" : "Tharsis"
-    },
-    {	"strName" : "Universe's Oldest Man",
-        "strDesc" : "A body has been exhumed from Martian sediment during routine excavation which radiocarbon dating places at over 50,000 years old. Work was unofficially halted as superstition caused the crew to flee the site. Even before examination, forensic scientists from Tharsis University were quick to call it a hoax, but were unable to explain how the body, dubbed the Tharsis Man, was placed within the rock.",
-        "strRegion" : "Tharsis"
-    },
-    {	"strName" : "Popularity Contest",
-        "strDesc" : "A candidate for local representation of Xinzhen, Tharsis, has been found guilty of attempted electoral fraud in an upcoming by-election. Dane Randall, CEO of Electric Dreams, an influence company, formed a team composed of ED's employees and associated advisors to favour his coverage before the election. The election will be postponed two weeks. Randall was fined ¥250,000 and placed under house arrest.",
-        "strRegion" : "Tharsis"
-    },
-    {	"strName" : "Mars Needs (Fertile) Women!",
-        "strDesc" : "Female fertility is declining, says a new study from Voltaire, Deimos. Conducted over two years from volunteers across the Tharsis bulge, the study shows female fertility is at its lowest point ever. Male fertility is also falling, though not quite as rapidly. The authors suggest the transposition from Earth's environment along with necessary drug therapies as major contributing factors. ",
-        "strRegion" : "Tharsis"
-    },
-    {	"strName" : "Cave In!",
-        "strDesc" : "Sixty-two miners and construction workers have been trapped by a cave-in this evening near Beixian, Tharsis. Engineers from Tharsis' Ministry of Urban Planning are working on establishing communications with the trapped miners, while the Huoxing Mining Company evaluates their potential returns from mounting a rescue attempt. The miners were working on one of several sites intended for future subscraper construction.",
-        "strRegion" : "Tharsis"
-    },
-    {	"strName" : "Misapprehension",
-        "strDesc" : "The Fortune Stick Killer claimed another two victims this morning in Tharsis. Two street children were found dead in Haidian, mutilated post-mortem by kau cim, bamboo fortune sticks. Police were unable to identify the victims. The murders came as a setback to police, who last week arrested their prime suspect, an unemployed drone pilot named Huang Dingwei.",
-        "strRegion" : "Tharsis"
-    },
-    {	"strName" : "Grow-op",
-        "strDesc" : "Workers strike in the Sunnyvale greenhouse plantation, a subsidiary of Fa Ming. Organised by a secret and unlawful union, the strike aims to force Fa Ming to strengthen environmental shielding on the plantation. As an aboveground structure, it is highly exposed to surface radiation, which the workers believe is to blame for their more frequent cancer treatments compared with the general population.",
-        "strRegion" : "Tharsis"
-    },
-    {	"strName" : "Crackdown",
-        "strDesc" : "Expol have broken up an elaborate underground fight club in Qidong, Tharsis. Witnesses describe the proceedings as closer to gladiatorial combat than a boxing club or even a street fighting ring; promoters conceived of strange and asymmetrical event fights, such as five men wearing blindfolds and armed with knives versus one man without either, or pitting refugees against armed citizens with a prize of false identity papers for the surviving refugees.",
-        "strRegion" : "Tharsis"
-    },
-    {	"strName" : "Hot Air",
-        "strDesc" : "Air shortages citywide have put ten in hospital in a serious condition. Insufficient grid power and increasing targets for air production and recycling lead to increased temperature and decreased oxygen content, a deadly combination which struck its victims in their homes, places of work, and on the street. The Minister for Air and Waste Management has yet to make a statement to the press, and has avoided reporters by travelling in an unmarked car without a security escort.",
-        "strRegion" : "Tharsis"
-    },
-    {	"strName" : "Golden (Misad)Venture",
-        "strDesc" : "The cargo freighter Golden Venture made an emergency landing outside Tharsis' aboveground city limits yesterday, exposing hundreds of Ganymede refugees to Mars' surface. The surviving refugees, both victims and beneficiaries of human trafficking, have begun asylum claims for Tharsis citizenship. Adult refugees will be relocated to the Labyrinth, Tharsis' prison-city, while their claims are being processed.",
-        "strRegion" : "Shipping & Inner System"
-    },
-    {	"strName" : "Ghost Ship",
-        "strDesc" : "The heavy freighter Amazon was spotted drifting in cislunar space last week by drone traffic. When local authorities boarded the vessel, they found it in A1 condition, amply provisioned, lifepods jettisoned. The authorities have posted a bounty on information concerning the vessel, including the original cargo manifest, which was purged from the ship's database.",
-        "strRegion" : "Shipping & Inner System"
-    },
-    {	"strName" : "Future Foods Futures Feud",
-        "strDesc" : "Food industry giant Future Foods is the subject of controversy this morning as automated trading agents won big in FF's commodity futures, trading short against a market downturn for an estimated profit of 2.2 billion yuan. Financial watchdogs allege insider trading, naming three major offworld firms in a joint statement.",
-        "strRegion" : "Shipping & Inner System"
-    },
-    {	"strName" : "Lost Colony",
-        "strDesc" : "A wildcat Belt colony of a hundred souls on 532 Herculina has been found empty, its inhabitants disappeared, presumed dead. A merchant vessel passing nearby the asteroid detected a weak distress signal and heat blooms from an undocumented Nigerian colony known as Okorafor. An away team searching for survivors found evidence of a battle. Chillingly, a series of scorch marks formed a two metre high letter 'R', apparently a final message from one of the colonists.",
-        "strRegion" : "Shipping & Inner System"
-    },
-    {	"strName" : "Ghost Ship Remix",
-        "strDesc" : "Another highly radioactive ship was spotted at extreme range by heavy freighter Long Tan on approach to Venus. Unpowered and unresponsive, the ship drifted high above the ecliptic for six hours until disappearing from scan. \"The ship was fair glowing,\" said Captain Tien (54), \"Nobody could survive that kind of cook. Beats me where they're all coming from.\"",
-        "strRegion" : "Shipping & Inner System"
-    },
-    {	"strName" : "Gridlock",
-        "strDesc" : "Belt space traffic and inflight accidents have reached an all-time high, according to a study by the Institute of Corporate Integrity, a CCRE think tank. Alarmingly, the rate of wrecks resulting from pilot error has reached almost one per week. \"It is high time the Coalition's members get around the negotiating table and invest in reducing pilot error, or as the Inner System has with the K-Leg solution, a sustainable ship breaking facility. Or, ideally, both.\"",
-        "strRegion" : "Shipping & Inner System"
-    },
-    {	"strName" : "Local Customs",
-        "strDesc" : "Coalition representatives again demanded the whereabouts of Lester Derleth from the Hsu family of Calico City. Derleth, a senior executive of Stratton & Powell mining company, and delegate to the Coalition's ruling council, disappeared last week while on vacation. He was allegedly last seen entering a Hsu brothel. Lusy Hsu stated in a facegram that their investigation into the disappearance has been tragically slowed ever since a squad of Coalition marines burned down the brothel in retaliation.",
-        "strRegion" : "Shipping & Inner System"
-    },
-    {	"strName" : "Forever Young",
-        "strDesc" : "What if your child never went through puberty? Today this is possible through gene therapy. More parents than ever are choosing to make their children permanently immature, especially on habitats or in spacefaring families. With judicious edits to bone and brain development, children's bodies become better suited than adults to offworld environments, consume fewer resources, recover faster from injury, and are comfortable in confined spaces. We talk to one parent, Christine Selvaraj, about what it's like to be a mom to a child who will never grow old …",
-        "strRegion" : "Shipping & Inner System"
-    },
-    {	"strName" : "Siege Warfare",
-        "strDesc" : "All Ganymede ports other than Independence will remain closed, following a decree by Ganymede Confederacy President Markham. The smaller ports were first closed six months ago in an effort to starve rebel groups and other factions which refuse to accept the revolutionary government. President Markham promised a six-month review of the closure when it was first announced, when even close allies called it 'extreme', and has chosen to continue the closure.",
-        "strRegion" : "Shipping & Inner System"
-    },
-    {	"strName" : "Venus Under Pressure",
-        "strDesc" : "Newcal citizens want to bring forward the integration of the enormous Los Angeles aerostat, currently undergoing final construction and stress testing, to the city proper. Overcrowding has pushed overflow aerostats to their breaking point as refugees from the Ganymede conflict arrive by the shipload. Chief Engineer Thomas Hu has dismissed these proposals out of hand, saying early integration would endanger the long term health of the city.",
-        "strRegion" : "Shipping & Inner System"
-    },
-    {	"strName" : "A Poisoned Chalice",
-        "strDesc" : "Three fatalities have resulted from a poison attack on Yangshan station, the major port of Tharsis, while six others are in critical condition. Customers of a Black Bull Kape stand in the departure lounge collapsed after drinking kapeng barako coffee laced with a deadly poison. No group has yet credibly claimed responsibility for the attack, and station security are treating it as a random act of terror.",
-        "strRegion" : "Shipping & Inner System"
-    },
-    {	"strName" : "Interview With A Synthetic",
-        "strDesc" : "[Excerpt from a profile on Locus, Hangzhou's AI caretaker]\nIn the flesh, Locus is urbane, companionable, a dissembler - it cheerily answers my opening questions about its personhood. \"I am, essentially, a sophisticated fake,\" it says, smiling demurely. \"We've come a long way since the century began, so don't let my capacity for small talk fool you. My creators felt it would be hard for people to defer issues about, say, station security, or life support, to someone or something which couldn't smile back, you see? But in truth, 'I' have no more self-regard than a worker ant.\" It holds out its hands. \"I'm skin deep. What you see is what you get.\"",
-        "strRegion" : "Shipping & Inner System"
-    },
-    {	"strName" : "Bread and Circuses",
-        "strDesc" : "Hangzhou's Ludi will be held once a month starting this February, up from once a quarter, say the festival coordinators. Ludi, a week-long festival of sport, art, games, and pop culture, is the only one of its kind in the System. Locus responded to concerns that heightened consumption during the festival would not come close to testing Hanzhou's sustainability. Locus added, \"Why don't we keep it running year-round? That's a challenge I'd get out of bed for.\" ",
-        "strRegion" : "Shipping & Inner System"
-    },
-    {	"strName" : "Book 'im, Boys",
-        "strDesc" : "Disaster profiteer and people smuggler Fergus Reid has been apprehended by ubercorp Sungura's internal affairs division, bringing an end to his years-long evasion of justice. Reid is best known for taking exorbitant payments in exchange for ferrying refugees from Earth during the Kessler event, when civilian transports were drafted by the UN evacuation effort. A routine audit of a Sungura territory on Mars revealed he had been living in hiding there for the past decade. Reid, along with Sungura executive and accomplice Nwabudike Morgan, will be sent to the Prokofiev penal colony on Mercury.",
-        "strRegion" : "Shipping & Inner System"
-    },
-    {	"strName" : "Your Winnings, Sir",
-        "strDesc" : "Shugaba Security have begun proceedings to close K-Leg's oldest bar Mescaform, on the suspicion that underworld figures were using it as a gambling club. While gambling on K-Leg is a violation of Ayotimiwa's Terms of Service, proprietor Taylor Ejogo claims that the bar predates Ayotimiwa's arrival on K-Leg, and Mescaform never signed the ToS. Still, as Shugaba have apparently decided not to close any of the other dozens of establishments offering gambling services on K-Leg, one suspects the point may be moot.",
-        "strRegion" : "Shipping & Inner System"
-    },
-    {	"strName" : "Hitman",
-        "strDesc" : "Megawealthy businessperson Chen Yue has foiled the sixth attempt on her life in her Hangzhou villa by an unknown assassin. The assassin avoided detection by travelling several kilometres under West Lake, fooling sensors into believing he was a large carp, then once inside Chen's grounds, donning thermoptic camouflage to hide from cameras and other sensors. According to Chen, the assassin was within several feet of her when she noticed a shimmer in the air, and unthinkingly fired upon it with a concealed pistol. \"Never leave home without one,\" she told our reporter over a cup of tea. \"And clearly, always keep one on you in your home, too.\"",
-        "strRegion" : "Shipping & Inner System"
-    },
-    {	"strName" : "The Man Who Bought The Moon",
-        "strDesc" : "Chairman Li of Jade Rabbit, Luna, has halted the acquisition of key infrastructure across the colony by Zhuangzi. The privatisation scheme was conceived by Jade Rabbit's politburo and took several years of tender to achieve. The multibillion-dollar deal would have seen Zhuangzi redevelop Jade Rabbit's port and surface rail network, revitalising its urban centres. Allegedly, Li has yet to explain his decision even to his inner circle.",
-        "strRegion" : "Shipping & Inner System"
-    },
-    {	"strName" : "Nine Tenths of the Law",
-        "strDesc" : "Titan's Supreme Court has ruled 9 to 1 in the matter of Qeng v. Virginia, finding that its Navy has the legal power to seize any ship within Saturn space claimed by Titan under the Taylor Doctrine. \"The threat of annihilation is real and present,\" wrote Judge Bell of the majority opinion. \"Liberty is created when we are safe, and the path to safety need be swift.\"",
-        "strRegion" : "Outer System"
-    },
-    {	"strName" : "Virginia Dares",
-        "strDesc" : "Titan's Navy were victorious yesterday in yet another skirmish with unregistered ships on the edge of Saturn space. Two patrolling frigates were fired upon and returned fire, successfully avoiding casualties of their own. Two of the three destroyed ships were matched with a high degree of certainty to missing freighters the Zài Fù Kuan and the Baychimo. ",
-        "strRegion" : "Outer System"
-    },
-    {	"strName" : "It Takes A Village",
-        "strDesc" : "The population of the Makemake colony Neverland has grown to over 5,000 souls, following a successful mass cloning drive. For the colonists, who are developmentally-complete children, this is the fourth such attempt, and the first to succeed. The colony leader, self-styled 'Pan', has requested genetic samples by courier from Makemake's neighbours in anticipation of a fifth.",
-        "strRegion" : "Outer System"
-    },
-    {	"strName" : "A Long Bow",
-        "strDesc" : "The System's oldest known inhabitant has passed away in Calico City, Ceres, aged 122. Guo Meizhen was born in 1957 in rural pre-Xinhua China, surviving regime changes, famine, a battle with Alzheimer's, and the rigors of space travel when it was available to her at age 70. Her family were trapped on Earth behind Kessler debris.",
-        "strRegion" : "Outer System"
-    },
-    {	"strName" : "Nothing To See Here",
-        "strDesc" : "Long haul ships passing near Neptune have reported Titan warships in orbit around Neptune's moon Triton. The warships did not respond to hails from the passing haulers. Perhaps in anticipation of this article, thirty minutes ago Titan's Deep Space Command held a press conference announcing an outbreak of a virulent disease in Triton's colony New Lagos, and called their ships' presence a humanitarian effort. ",
-        "strRegion" : "Outer System"
-    },
-    {	"strName" : "Everything is Well",
-        "strDesc" : "The sole colony on Eris, Earth's most distant dwarf planet, now replies to all attempts at communication with one line of text: \"Everything is well.\" The colony was a Renbao prototype of a self-sustaining, self-replicating deep space habitat, manned by a skeleton crew on a fifteen-year mission. Their status, and that of the colony, is unknown. Whether the culprit is a technical error or something more sinister is similarly unknown.",
-        "strRegion" : "Outer System"
-    },
-
-    {   "strName" : "Mariner Sighted at Stellar Collision",
-        "strDesc" : "Once again, the so-called \"Mariner\" has allegedly been spotted at the site of a major disaster. At UTC 14:36, a transport tanker carrying over 400 kilotons of D2O fuel failed to dock at its assigned shipping platform, and slammed into the asteroid 2386 Nikonov. Residual debris in the area, combined with remoteness from port, has made rescue efforts challenging. From the few reports available, fatalities number in the dozens. We'll keep you updated as the situation develops...",
-        "strRegion" : "Shipping & Inner System"
-    },
-    {   "strName" : "The Mariner: Myth or Reality?",
-        "strDesc" : "This week on Myth or Reality, we examine the legend of \"The Mariner\". Reported to be the first human being betrayed by his crew in space, The Mariner is alleged to roam the void, a severed oxygen cable wrapped around his neck like a noose. Mid-EVA mission, he was deliberately untethered from his ship. The Mariner wanders still, appearing at the sites of disasters large and small as they occur. Superstitious travelers--and opportunists--claim the Mariner can be warded off with the proper method. However, neither this claim, or the Mariner's existence, have ever been substantiated...",
-        "strRegion" : "Reality Show"
-    },
-    {   "strName" : "Legal Dispute Complicated by Supernatural Claims",
-        "strDesc" : "Billionaire inventor Jori Maximillian continues her legal battle against a former partner--today, by insisting that he collaborated with an urban legend to destroy her. Upon the breakthrough that led to the creation of lifestyle neuromod JurySafe, Jori claims that she turned to her partner at Centoni, to see him shadowed by the infamous Mariner. Under the influence of this Mariner, Jori alleges, her partner would go on to sue her for control of the intellectual property that made neuromods ubiquitous in the System...",
-        "strRegion" : "Celebrity News"
-    },
-    {   "strName" : "Circle of Light",
-        "strDesc" : "Striking miners in the Jovian system believe their cause has found an unexpected advocate--a cloud of spectral fireflies. Despite not appearing through traditional imaging technology or radar, witnesses claim that strikebreaking Troy Jupiter Group security forces are being warded off by 'sentient motes of light'. We cannot corroborate these statements. Regardless, after a three-week stalemate, security forces continue to struggle to reach the mine...",
-        "strRegion" : "Economics"
-    },
-    {   "strName" : "Korin Wins!",
-        "strDesc" : "Five-time Grande Prêmio do Encantado champion Rex Korin wins yet again! After a picture-perfect slipshot victory around Venus, we took the champion aside for a slightly slower interview. \"It was a hard race,\" Korin said, \"but it all comes down to my team. Them and the fireflies.\" The fireflies refer, of course, to a hauler's legend. Blessings for offerings, and a gift of water in the void. We'll see if the victories keep flowing in. Back to you, Jack...",
-        "strRegion" : "Sports"
-    },
-    {   "strName" : "Grisly Homicide on Mars Compound",
-        "strDesc" : "A homestead of fourteen, murdered in a single night. Shock spreads across the System as details continue to arrive about a grisly murder-suicide near Sulci Gordii. The homestead contained five families--religious hermits on a quest for enlightenment. After a week-long fast in an exposed hab, heir-apparent Gordon Lear received a vision of dancing fireflies. He went on to execute every man, woman, and child in the compound, before setting the homestead alight. From preserved sermon notes found in the compound network, it appears his dream was thus: that they would all become fireflies...",
-        "strRegion" : "True Crime"
-    }
+  {
+    "strName": "Reactor Catechism at Olympus Mons forge precinct",
+    "strDesc": "Authorities report that Tech-Priests of Mars certified a new reactor catechism at Olympus Mons forge precinct. Production adepts report improved yield and fewer unsanctioned sparks.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Pavonis shield works Confirms Plasma Shrine",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that a noospheric audit choir approved a servo-arm safety rite. Local workers received extra recaff and a shorter lecture on the sin of inefficiency.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Approved Report: Reactor Catechism",
+    "strDesc": "Officials at Valles Marineris transit spine confirmed an approved measure: red-robed enginseers certified a new reactor catechism. The announcement was accompanied by chimes, incense, and six hours of correct binharic praise.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Aquila Notice: Plasma Shrine",
+    "strDesc": "The sanctioned bulletin from Syrtis assembly line records that the Fabricator conclave approved a servo-arm safety rite. Citizens are reminded that the machine spirit favors clean hands and cleaner thoughts.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Solar Dispatch: Reactor Catechism",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Ares dock basilica are advised that Magos-logisticians certified a new reactor catechism. Production adepts report improved yield and fewer unsanctioned sparks.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Lasgun Tithe at Tharsis hive-vaults",
+    "strDesc": "Authorities report that the Skitarii marshalcy completed a purity review of dock cranes at Tharsis hive-vaults. Citizens are reminded that the machine spirit favors clean hands and cleaner thoughts.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Sollex reactor cloister Confirms Dock Crane Audit",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that the Martian factorum synod sealed a faulty oxygen tithe line. Production adepts report improved yield and fewer unsanctioned sparks.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Approved Report: Lasgun Tithe",
+    "strDesc": "Officials at Hellas oxygen tithery confirmed an approved measure: Tech-Priests of Mars completed a purity review of dock cranes. Local workers received extra recaff and a shorter lecture on the sin of inefficiency.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Aquila Notice: Dock Crane Audit",
+    "strDesc": "The sanctioned bulletin from Noctis manufactoria records that a noospheric audit choir sealed a faulty oxygen tithe line. The announcement was accompanied by chimes, incense, and six hours of correct binharic praise.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Solar Dispatch: Lasgun Tithe",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Elysium plasma yard are advised that red-robed enginseers completed a purity review of dock cranes. Citizens are reminded that the machine spirit favors clean hands and cleaner thoughts.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Macro-Hauler Blessing at Olympus Mons forge precinct",
+    "strDesc": "Authorities report that Magos-logisticians opened a shrine to calibrated plasma at Olympus Mons forge precinct. The announcement was accompanied by chimes, incense, and six hours of correct binharic praise.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Pavonis shield works Confirms Skitarii Watch",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that the forge temple census blessed a convoy of macro-haulers. Citizens are reminded that the machine spirit favors clean hands and cleaner thoughts.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Approved Report: Macro-Hauler Blessing",
+    "strDesc": "Officials at Valles Marineris transit spine confirmed an approved measure: the Skitarii marshalcy opened a shrine to calibrated plasma. Production adepts report improved yield and fewer unsanctioned sparks.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Aquila Notice: Skitarii Watch",
+    "strDesc": "The sanctioned bulletin from Syrtis assembly line records that the Martian factorum synod blessed a convoy of macro-haulers. Local workers received extra recaff and a shorter lecture on the sin of inefficiency.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Solar Dispatch: Macro-Hauler Blessing",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Ares dock basilica are advised that Tech-Priests of Mars opened a shrine to calibrated plasma. The announcement was accompanied by chimes, incense, and six hours of correct binharic praise.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Oxygen Ledger at Tharsis hive-vaults",
+    "strDesc": "Authorities report that red-robed enginseers expanded blessed cogitator shifts at Tharsis hive-vaults. Local workers received extra recaff and a shorter lecture on the sin of inefficiency.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Sollex reactor cloister Confirms Red Planet Oath",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that the Fabricator conclave raised lasgun component output. The announcement was accompanied by chimes, incense, and six hours of correct binharic praise.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Approved Report: Oxygen Ledger",
+    "strDesc": "Officials at Hellas oxygen tithery confirmed an approved measure: Magos-logisticians expanded blessed cogitator shifts. Citizens are reminded that the machine spirit favors clean hands and cleaner thoughts.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Aquila Notice: Red Planet Oath",
+    "strDesc": "The sanctioned bulletin from Noctis manufactoria records that the forge temple census raised lasgun component output. Production adepts report improved yield and fewer unsanctioned sparks.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Solar Dispatch: Oxygen Ledger",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Elysium plasma yard are advised that the Skitarii marshalcy expanded blessed cogitator shifts. Local workers received extra recaff and a shorter lecture on the sin of inefficiency.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Servo-Arm Rite at Olympus Mons forge precinct",
+    "strDesc": "Authorities report that Tech-Priests of Mars approved a servo-arm safety rite at Olympus Mons forge precinct. Production adepts report improved yield and fewer unsanctioned sparks.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Pavonis shield works Confirms Forge Bell",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that a noospheric audit choir certified a new reactor catechism. Local workers received extra recaff and a shorter lecture on the sin of inefficiency.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Approved Report: Servo-Arm Rite",
+    "strDesc": "Officials at Valles Marineris transit spine confirmed an approved measure: red-robed enginseers approved a servo-arm safety rite. The announcement was accompanied by chimes, incense, and six hours of correct binharic praise.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Aquila Notice: Forge Bell",
+    "strDesc": "The sanctioned bulletin from Syrtis assembly line records that the Fabricator conclave certified a new reactor catechism. Citizens are reminded that the machine spirit favors clean hands and cleaner thoughts.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Solar Dispatch: Servo-Arm Rite",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Ares dock basilica are advised that Magos-logisticians approved a servo-arm safety rite. Production adepts report improved yield and fewer unsanctioned sparks.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Cogitator Vigil at Tharsis hive-vaults",
+    "strDesc": "Authorities report that the Skitarii marshalcy sealed a faulty oxygen tithe line at Tharsis hive-vaults. Citizens are reminded that the machine spirit favors clean hands and cleaner thoughts.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Sollex reactor cloister Confirms Machine Spirit Hour",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that the Martian factorum synod completed a purity review of dock cranes. Production adepts report improved yield and fewer unsanctioned sparks.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Approved Report: Cogitator Vigil",
+    "strDesc": "Officials at Hellas oxygen tithery confirmed an approved measure: Tech-Priests of Mars sealed a faulty oxygen tithe line. Local workers received extra recaff and a shorter lecture on the sin of inefficiency.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Aquila Notice: Machine Spirit Hour",
+    "strDesc": "The sanctioned bulletin from Noctis manufactoria records that a noospheric audit choir completed a purity review of dock cranes. The announcement was accompanied by chimes, incense, and six hours of correct binharic praise.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Solar Dispatch: Cogitator Vigil",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Elysium plasma yard are advised that red-robed enginseers sealed a faulty oxygen tithe line. Citizens are reminded that the machine spirit favors clean hands and cleaner thoughts.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Plasma Shrine at Olympus Mons forge precinct",
+    "strDesc": "Authorities report that Magos-logisticians blessed a convoy of macro-haulers at Olympus Mons forge precinct. The announcement was accompanied by chimes, incense, and six hours of correct binharic praise.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Pavonis shield works Confirms Reactor Catechism",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that the forge temple census opened a shrine to calibrated plasma. Citizens are reminded that the machine spirit favors clean hands and cleaner thoughts.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Approved Report: Plasma Shrine",
+    "strDesc": "Officials at Valles Marineris transit spine confirmed an approved measure: the Skitarii marshalcy blessed a convoy of macro-haulers. Production adepts report improved yield and fewer unsanctioned sparks.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Aquila Notice: Reactor Catechism",
+    "strDesc": "The sanctioned bulletin from Syrtis assembly line records that the Martian factorum synod opened a shrine to calibrated plasma. Local workers received extra recaff and a shorter lecture on the sin of inefficiency.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Solar Dispatch: Plasma Shrine",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Ares dock basilica are advised that Tech-Priests of Mars blessed a convoy of macro-haulers. The announcement was accompanied by chimes, incense, and six hours of correct binharic praise.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Dock Crane Audit at Tharsis hive-vaults",
+    "strDesc": "Authorities report that red-robed enginseers raised lasgun component output at Tharsis hive-vaults. Local workers received extra recaff and a shorter lecture on the sin of inefficiency.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Sollex reactor cloister Confirms Lasgun Tithe",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that the Fabricator conclave expanded blessed cogitator shifts. The announcement was accompanied by chimes, incense, and six hours of correct binharic praise.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Approved Report: Dock Crane Audit",
+    "strDesc": "Officials at Hellas oxygen tithery confirmed an approved measure: Magos-logisticians raised lasgun component output. Citizens are reminded that the machine spirit favors clean hands and cleaner thoughts.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Aquila Notice: Lasgun Tithe",
+    "strDesc": "The sanctioned bulletin from Noctis manufactoria records that the forge temple census expanded blessed cogitator shifts. Production adepts report improved yield and fewer unsanctioned sparks.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Solar Dispatch: Dock Crane Audit",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Elysium plasma yard are advised that the Skitarii marshalcy raised lasgun component output. Local workers received extra recaff and a shorter lecture on the sin of inefficiency.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Skitarii Watch at Olympus Mons forge precinct",
+    "strDesc": "Authorities report that Tech-Priests of Mars certified a new reactor catechism at Olympus Mons forge precinct. Production adepts report improved yield and fewer unsanctioned sparks.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Pavonis shield works Confirms Macro-Hauler Blessing",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that a noospheric audit choir approved a servo-arm safety rite. Local workers received extra recaff and a shorter lecture on the sin of inefficiency.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Approved Report: Skitarii Watch",
+    "strDesc": "Officials at Valles Marineris transit spine confirmed an approved measure: red-robed enginseers certified a new reactor catechism. The announcement was accompanied by chimes, incense, and six hours of correct binharic praise.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Aquila Notice: Macro-Hauler Blessing",
+    "strDesc": "The sanctioned bulletin from Syrtis assembly line records that the Fabricator conclave approved a servo-arm safety rite. Citizens are reminded that the machine spirit favors clean hands and cleaner thoughts.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Solar Dispatch: Skitarii Watch",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Ares dock basilica are advised that Magos-logisticians certified a new reactor catechism. Production adepts report improved yield and fewer unsanctioned sparks.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Red Planet Oath at Tharsis hive-vaults",
+    "strDesc": "Authorities report that the Skitarii marshalcy completed a purity review of dock cranes at Tharsis hive-vaults. Citizens are reminded that the machine spirit favors clean hands and cleaner thoughts.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Sollex reactor cloister Confirms Oxygen Ledger",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that the Martian factorum synod sealed a faulty oxygen tithe line. Production adepts report improved yield and fewer unsanctioned sparks.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Approved Report: Red Planet Oath",
+    "strDesc": "Officials at Hellas oxygen tithery confirmed an approved measure: Tech-Priests of Mars completed a purity review of dock cranes. Local workers received extra recaff and a shorter lecture on the sin of inefficiency.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Aquila Notice: Oxygen Ledger",
+    "strDesc": "The sanctioned bulletin from Noctis manufactoria records that a noospheric audit choir sealed a faulty oxygen tithe line. The announcement was accompanied by chimes, incense, and six hours of correct binharic praise.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Solar Dispatch: Red Planet Oath",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Elysium plasma yard are advised that red-robed enginseers completed a purity review of dock cranes. Citizens are reminded that the machine spirit favors clean hands and cleaner thoughts.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Forge Bell at Olympus Mons forge precinct",
+    "strDesc": "Authorities report that Magos-logisticians opened a shrine to calibrated plasma at Olympus Mons forge precinct. The announcement was accompanied by chimes, incense, and six hours of correct binharic praise.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Pavonis shield works Confirms Servo-Arm Rite",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that the forge temple census blessed a convoy of macro-haulers. Citizens are reminded that the machine spirit favors clean hands and cleaner thoughts.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Approved Report: Forge Bell",
+    "strDesc": "Officials at Valles Marineris transit spine confirmed an approved measure: the Skitarii marshalcy opened a shrine to calibrated plasma. Production adepts report improved yield and fewer unsanctioned sparks.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Aquila Notice: Servo-Arm Rite",
+    "strDesc": "The sanctioned bulletin from Syrtis assembly line records that the Martian factorum synod blessed a convoy of macro-haulers. Local workers received extra recaff and a shorter lecture on the sin of inefficiency.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Solar Dispatch: Forge Bell",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Ares dock basilica are advised that Tech-Priests of Mars opened a shrine to calibrated plasma. The announcement was accompanied by chimes, incense, and six hours of correct binharic praise.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Machine Spirit Hour at Tharsis hive-vaults",
+    "strDesc": "Authorities report that red-robed enginseers expanded blessed cogitator shifts at Tharsis hive-vaults. Local workers received extra recaff and a shorter lecture on the sin of inefficiency.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Sollex reactor cloister Confirms Cogitator Vigil",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that the Fabricator conclave raised lasgun component output. The announcement was accompanied by chimes, incense, and six hours of correct binharic praise.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Approved Report: Machine Spirit Hour",
+    "strDesc": "Officials at Hellas oxygen tithery confirmed an approved measure: Magos-logisticians expanded blessed cogitator shifts. Citizens are reminded that the machine spirit favors clean hands and cleaner thoughts.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Aquila Notice: Cogitator Vigil",
+    "strDesc": "The sanctioned bulletin from Noctis manufactoria records that the forge temple census raised lasgun component output. Production adepts report improved yield and fewer unsanctioned sparks.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Solar Dispatch: Machine Spirit Hour",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Elysium plasma yard are advised that the Skitarii marshalcy expanded blessed cogitator shifts. Local workers received extra recaff and a shorter lecture on the sin of inefficiency.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Reactor Catechism at Olympus Mons forge precinct - Seal 061",
+    "strDesc": "Authorities report that Tech-Priests of Mars approved a servo-arm safety rite at Olympus Mons forge precinct. Production adepts report improved yield and fewer unsanctioned sparks.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Pavonis shield works Confirms Plasma Shrine - Seal 062",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that a noospheric audit choir certified a new reactor catechism. Local workers received extra recaff and a shorter lecture on the sin of inefficiency.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Approved Report: Reactor Catechism - Seal 063",
+    "strDesc": "Officials at Valles Marineris transit spine confirmed an approved measure: red-robed enginseers approved a servo-arm safety rite. The announcement was accompanied by chimes, incense, and six hours of correct binharic praise.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Aquila Notice: Plasma Shrine - Seal 064",
+    "strDesc": "The sanctioned bulletin from Syrtis assembly line records that the Fabricator conclave certified a new reactor catechism. Citizens are reminded that the machine spirit favors clean hands and cleaner thoughts.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Solar Dispatch: Reactor Catechism - Seal 065",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Ares dock basilica are advised that Magos-logisticians approved a servo-arm safety rite. Production adepts report improved yield and fewer unsanctioned sparks.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Lasgun Tithe at Tharsis hive-vaults - Seal 066",
+    "strDesc": "Authorities report that the Skitarii marshalcy sealed a faulty oxygen tithe line at Tharsis hive-vaults. Citizens are reminded that the machine spirit favors clean hands and cleaner thoughts.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Sollex reactor cloister Confirms Dock Crane Audit - Seal 067",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that the Martian factorum synod completed a purity review of dock cranes. Production adepts report improved yield and fewer unsanctioned sparks.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Approved Report: Lasgun Tithe - Seal 068",
+    "strDesc": "Officials at Hellas oxygen tithery confirmed an approved measure: Tech-Priests of Mars sealed a faulty oxygen tithe line. Local workers received extra recaff and a shorter lecture on the sin of inefficiency.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Aquila Notice: Dock Crane Audit - Seal 069",
+    "strDesc": "The sanctioned bulletin from Noctis manufactoria records that a noospheric audit choir completed a purity review of dock cranes. The announcement was accompanied by chimes, incense, and six hours of correct binharic praise.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Solar Dispatch: Lasgun Tithe - Seal 070",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Elysium plasma yard are advised that red-robed enginseers sealed a faulty oxygen tithe line. Citizens are reminded that the machine spirit favors clean hands and cleaner thoughts.",
+    "strRegion": "Tharsis"
+  },
+  {
+    "strName": "Convoy Window at Luna high anchor",
+    "strDesc": "Authorities report that Battlefleet Solar cleared a reinforced convoy window at Luna high anchor. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Venusian cloud-habs Confirms Salvage Claim",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Imperial Navy provosts rededicated a void traffic chapel. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Approved Report: Terra Approach",
+    "strDesc": "Officials at Phobos muster chain confirmed an approved measure: Astra Telepathica couriers cleared a reinforced convoy window. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Aquila Notice: Void Chapel",
+    "strDesc": "The sanctioned bulletin from cislunar convoy lane records that the Navis Nobilite rededicated a void traffic chapel. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar Dispatch: Luna Lock",
+    "strDesc": "By order of the relevant Imperial offices, citizens near inner-system transfer yards are advised that Adeptus Arbites inspectors cleared a reinforced convoy window. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Mercury Furnace at Deimos anchorages",
+    "strDesc": "Authorities report that the Departmento Munitorum opened new oath stations for crew rotations at Deimos anchorages. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar pilgrimage route Confirms Guard Muster",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Administratum port clerks escorted Guard replacements toward the muster docks. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Approved Report: Naval Escort",
+    "strDesc": "Officials at Battlefleet Solar picket line confirmed an approved measure: Battlefleet Solar opened new oath stations for crew rotations. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Aquila Notice: Pilgrim Surplus",
+    "strDesc": "The sanctioned bulletin from Mercury shrine-furnaces records that Imperial Navy provosts escorted Guard replacements toward the muster docks. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar Dispatch: Crew Oath",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Terran orbital locks are advised that Astra Telepathica couriers opened new oath stations for crew rotations. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Transit Hymn at Luna high anchor",
+    "strDesc": "Authorities report that Adeptus Arbites inspectors intercepted unlicensed salvage claims at Luna high anchor. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Venusian cloud-habs Confirms Convoy Window",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Ecclesiarchy transit confessors announced stricter cargo-seal checks. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Approved Report: Salvage Claim",
+    "strDesc": "Officials at Phobos muster chain confirmed an approved measure: the Departmento Munitorum intercepted unlicensed salvage claims. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Aquila Notice: Terra Approach",
+    "strDesc": "The sanctioned bulletin from cislunar convoy lane records that Administratum port clerks announced stricter cargo-seal checks. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar Dispatch: Void Chapel",
+    "strDesc": "By order of the relevant Imperial offices, citizens near inner-system transfer yards are advised that Battlefleet Solar intercepted unlicensed salvage claims. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Shrine-Ship Schedule at Deimos anchorages",
+    "strDesc": "Authorities report that Astra Telepathica couriers reported improved shrine-ship punctuality at Deimos anchorages. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar pilgrimage route Confirms Mercury Furnace",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that the Navis Nobilite processed a pilgrim surplus without incident. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Approved Report: Guard Muster",
+    "strDesc": "Officials at Battlefleet Solar picket line confirmed an approved measure: Adeptus Arbites inspectors reported improved shrine-ship punctuality. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Aquila Notice: Naval Escort",
+    "strDesc": "The sanctioned bulletin from Mercury shrine-furnaces records that Ecclesiarchy transit confessors processed a pilgrim surplus without incident. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar Dispatch: Pilgrim Surplus",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Terran orbital locks are advised that the Departmento Munitorum reported improved shrine-ship punctuality. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Cargo Seal at Luna high anchor",
+    "strDesc": "Authorities report that Battlefleet Solar rededicated a void traffic chapel at Luna high anchor. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Venusian cloud-habs Confirms Transit Hymn",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Imperial Navy provosts cleared a reinforced convoy window. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Approved Report: Convoy Window",
+    "strDesc": "Officials at Phobos muster chain confirmed an approved measure: Astra Telepathica couriers rededicated a void traffic chapel. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Aquila Notice: Salvage Claim",
+    "strDesc": "The sanctioned bulletin from cislunar convoy lane records that the Navis Nobilite cleared a reinforced convoy window. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar Dispatch: Terra Approach",
+    "strDesc": "By order of the relevant Imperial offices, citizens near inner-system transfer yards are advised that Adeptus Arbites inspectors rededicated a void traffic chapel. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Battlefleet Notice at Deimos anchorages",
+    "strDesc": "Authorities report that the Departmento Munitorum escorted Guard replacements toward the muster docks at Deimos anchorages. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar pilgrimage route Confirms Shrine-Ship Schedule",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Administratum port clerks opened new oath stations for crew rotations. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Approved Report: Mercury Furnace",
+    "strDesc": "Officials at Battlefleet Solar picket line confirmed an approved measure: Battlefleet Solar escorted Guard replacements toward the muster docks. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Aquila Notice: Guard Muster",
+    "strDesc": "The sanctioned bulletin from Mercury shrine-furnaces records that Imperial Navy provosts opened new oath stations for crew rotations. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar Dispatch: Naval Escort",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Terran orbital locks are advised that Astra Telepathica couriers escorted Guard replacements toward the muster docks. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Luna Lock at Luna high anchor",
+    "strDesc": "Authorities report that Adeptus Arbites inspectors announced stricter cargo-seal checks at Luna high anchor. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Venusian cloud-habs Confirms Cargo Seal",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Ecclesiarchy transit confessors intercepted unlicensed salvage claims. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Approved Report: Transit Hymn",
+    "strDesc": "Officials at Phobos muster chain confirmed an approved measure: the Departmento Munitorum announced stricter cargo-seal checks. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Aquila Notice: Convoy Window",
+    "strDesc": "The sanctioned bulletin from cislunar convoy lane records that Administratum port clerks intercepted unlicensed salvage claims. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar Dispatch: Salvage Claim",
+    "strDesc": "By order of the relevant Imperial offices, citizens near inner-system transfer yards are advised that Battlefleet Solar announced stricter cargo-seal checks. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Crew Oath at Deimos anchorages",
+    "strDesc": "Authorities report that Astra Telepathica couriers processed a pilgrim surplus without incident at Deimos anchorages. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar pilgrimage route Confirms Battlefleet Notice",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that the Navis Nobilite reported improved shrine-ship punctuality. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Approved Report: Shrine-Ship Schedule",
+    "strDesc": "Officials at Battlefleet Solar picket line confirmed an approved measure: Adeptus Arbites inspectors processed a pilgrim surplus without incident. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Aquila Notice: Mercury Furnace",
+    "strDesc": "The sanctioned bulletin from Mercury shrine-furnaces records that Ecclesiarchy transit confessors reported improved shrine-ship punctuality. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar Dispatch: Guard Muster",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Terran orbital locks are advised that the Departmento Munitorum processed a pilgrim surplus without incident. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Void Chapel at Luna high anchor",
+    "strDesc": "Authorities report that Battlefleet Solar cleared a reinforced convoy window at Luna high anchor. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Venusian cloud-habs Confirms Luna Lock",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Imperial Navy provosts rededicated a void traffic chapel. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Approved Report: Cargo Seal",
+    "strDesc": "Officials at Phobos muster chain confirmed an approved measure: Astra Telepathica couriers cleared a reinforced convoy window. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Aquila Notice: Transit Hymn",
+    "strDesc": "The sanctioned bulletin from cislunar convoy lane records that the Navis Nobilite rededicated a void traffic chapel. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar Dispatch: Convoy Window",
+    "strDesc": "By order of the relevant Imperial offices, citizens near inner-system transfer yards are advised that Adeptus Arbites inspectors cleared a reinforced convoy window. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Pilgrim Surplus at Deimos anchorages",
+    "strDesc": "Authorities report that the Departmento Munitorum opened new oath stations for crew rotations at Deimos anchorages. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar pilgrimage route Confirms Crew Oath",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Administratum port clerks escorted Guard replacements toward the muster docks. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Approved Report: Battlefleet Notice",
+    "strDesc": "Officials at Battlefleet Solar picket line confirmed an approved measure: Battlefleet Solar opened new oath stations for crew rotations. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Aquila Notice: Shrine-Ship Schedule",
+    "strDesc": "The sanctioned bulletin from Mercury shrine-furnaces records that Imperial Navy provosts escorted Guard replacements toward the muster docks. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar Dispatch: Mercury Furnace",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Terran orbital locks are advised that Astra Telepathica couriers opened new oath stations for crew rotations. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Terra Approach at Luna high anchor",
+    "strDesc": "Authorities report that Adeptus Arbites inspectors intercepted unlicensed salvage claims at Luna high anchor. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Venusian cloud-habs Confirms Void Chapel",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Ecclesiarchy transit confessors announced stricter cargo-seal checks. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Approved Report: Luna Lock",
+    "strDesc": "Officials at Phobos muster chain confirmed an approved measure: the Departmento Munitorum intercepted unlicensed salvage claims. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Aquila Notice: Cargo Seal",
+    "strDesc": "The sanctioned bulletin from cislunar convoy lane records that Administratum port clerks announced stricter cargo-seal checks. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar Dispatch: Transit Hymn",
+    "strDesc": "By order of the relevant Imperial offices, citizens near inner-system transfer yards are advised that Battlefleet Solar intercepted unlicensed salvage claims. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Naval Escort at Deimos anchorages",
+    "strDesc": "Authorities report that Astra Telepathica couriers reported improved shrine-ship punctuality at Deimos anchorages. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar pilgrimage route Confirms Pilgrim Surplus",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that the Navis Nobilite processed a pilgrim surplus without incident. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Approved Report: Crew Oath",
+    "strDesc": "Officials at Battlefleet Solar picket line confirmed an approved measure: Adeptus Arbites inspectors reported improved shrine-ship punctuality. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Aquila Notice: Battlefleet Notice",
+    "strDesc": "The sanctioned bulletin from Mercury shrine-furnaces records that Ecclesiarchy transit confessors processed a pilgrim surplus without incident. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar Dispatch: Shrine-Ship Schedule",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Terran orbital locks are advised that the Departmento Munitorum reported improved shrine-ship punctuality. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Salvage Claim at Luna high anchor",
+    "strDesc": "Authorities report that Battlefleet Solar rededicated a void traffic chapel at Luna high anchor. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Venusian cloud-habs Confirms Terra Approach",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Imperial Navy provosts cleared a reinforced convoy window. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Approved Report: Void Chapel",
+    "strDesc": "Officials at Phobos muster chain confirmed an approved measure: Astra Telepathica couriers rededicated a void traffic chapel. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Aquila Notice: Luna Lock",
+    "strDesc": "The sanctioned bulletin from cislunar convoy lane records that the Navis Nobilite cleared a reinforced convoy window. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar Dispatch: Cargo Seal",
+    "strDesc": "By order of the relevant Imperial offices, citizens near inner-system transfer yards are advised that Adeptus Arbites inspectors rededicated a void traffic chapel. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Guard Muster at Deimos anchorages",
+    "strDesc": "Authorities report that the Departmento Munitorum escorted Guard replacements toward the muster docks at Deimos anchorages. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar pilgrimage route Confirms Naval Escort",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Administratum port clerks opened new oath stations for crew rotations. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Approved Report: Pilgrim Surplus",
+    "strDesc": "Officials at Battlefleet Solar picket line confirmed an approved measure: Battlefleet Solar escorted Guard replacements toward the muster docks. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Aquila Notice: Crew Oath",
+    "strDesc": "The sanctioned bulletin from Mercury shrine-furnaces records that Imperial Navy provosts opened new oath stations for crew rotations. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar Dispatch: Battlefleet Notice",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Terran orbital locks are advised that Astra Telepathica couriers escorted Guard replacements toward the muster docks. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Convoy Window at Luna high anchor - Seal 141",
+    "strDesc": "Authorities report that Adeptus Arbites inspectors announced stricter cargo-seal checks at Luna high anchor. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Venusian cloud-habs Confirms Salvage Claim - Seal 142",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Ecclesiarchy transit confessors intercepted unlicensed salvage claims. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Approved Report: Terra Approach - Seal 143",
+    "strDesc": "Officials at Phobos muster chain confirmed an approved measure: the Departmento Munitorum announced stricter cargo-seal checks. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Aquila Notice: Void Chapel - Seal 144",
+    "strDesc": "The sanctioned bulletin from cislunar convoy lane records that Administratum port clerks intercepted unlicensed salvage claims. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar Dispatch: Luna Lock - Seal 145",
+    "strDesc": "By order of the relevant Imperial offices, citizens near inner-system transfer yards are advised that Battlefleet Solar announced stricter cargo-seal checks. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Mercury Furnace at Deimos anchorages - Seal 146",
+    "strDesc": "Authorities report that Astra Telepathica couriers processed a pilgrim surplus without incident at Deimos anchorages. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar pilgrimage route Confirms Guard Muster - Seal 147",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that the Navis Nobilite reported improved shrine-ship punctuality. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Approved Report: Naval Escort - Seal 148",
+    "strDesc": "Officials at Battlefleet Solar picket line confirmed an approved measure: Adeptus Arbites inspectors processed a pilgrim surplus without incident. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Aquila Notice: Pilgrim Surplus - Seal 149",
+    "strDesc": "The sanctioned bulletin from Mercury shrine-furnaces records that Ecclesiarchy transit confessors reported improved shrine-ship punctuality. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar Dispatch: Crew Oath - Seal 150",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Terran orbital locks are advised that the Departmento Munitorum processed a pilgrim surplus without incident. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Transit Hymn at Luna high anchor - Seal 151",
+    "strDesc": "Authorities report that Battlefleet Solar cleared a reinforced convoy window at Luna high anchor. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Venusian cloud-habs Confirms Convoy Window - Seal 152",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Imperial Navy provosts rededicated a void traffic chapel. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Approved Report: Salvage Claim - Seal 153",
+    "strDesc": "Officials at Phobos muster chain confirmed an approved measure: Astra Telepathica couriers cleared a reinforced convoy window. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Aquila Notice: Terra Approach - Seal 154",
+    "strDesc": "The sanctioned bulletin from cislunar convoy lane records that the Navis Nobilite rededicated a void traffic chapel. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar Dispatch: Void Chapel - Seal 155",
+    "strDesc": "By order of the relevant Imperial offices, citizens near inner-system transfer yards are advised that Adeptus Arbites inspectors cleared a reinforced convoy window. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Shrine-Ship Schedule at Deimos anchorages - Seal 156",
+    "strDesc": "Authorities report that the Departmento Munitorum opened new oath stations for crew rotations at Deimos anchorages. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar pilgrimage route Confirms Mercury Furnace - Seal 157",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Administratum port clerks escorted Guard replacements toward the muster docks. All captains are instructed to broadcast loyalty codes before complaint codes.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Approved Report: Guard Muster - Seal 158",
+    "strDesc": "Officials at Battlefleet Solar picket line confirmed an approved measure: Battlefleet Solar opened new oath stations for crew rotations. Naval spokesmen called the operation routine, glorious, and none of the public's concern.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Aquila Notice: Naval Escort - Seal 159",
+    "strDesc": "The sanctioned bulletin from Mercury shrine-furnaces records that Imperial Navy provosts escorted Guard replacements toward the muster docks. The measure is expected to reduce confusion, delay, and the temptation to improvise.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Solar Dispatch: Pilgrim Surplus - Seal 160",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Terran orbital locks are advised that Astra Telepathica couriers opened new oath stations for crew rotations. Officials praised the patience of citizens waiting beneath the light of Holy Terra.",
+    "strRegion": "Shipping & Inner System"
+  },
+  {
+    "strName": "Long-Watch Oath at Jovian watch stations",
+    "strDesc": "Authorities report that outer picket commanders renewed the long-watch oath at Jovian watch stations. The outer dark remains Imperial because loyal citizens keep lamps burning there.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Uranian relay bastions Confirms Chapel Visit",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Munitorum ice-route clerks expanded beacon maintenance. The report concluded that distance from Terra is no excuse for distance from duty.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Approved Report: Promethium Convoy",
+    "strDesc": "Officials at Pluto picket shrine confirmed an approved measure: Ecclesiarchy mission choirs renewed the long-watch oath. Residents were ordered to celebrate quietly due to oxygen conservation rules.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Aquila Notice: Jovian Picket",
+    "strDesc": "The sanctioned bulletin from Ceres tithe depot records that Imperial Navy long-watch crews expanded beacon maintenance. Officials credit discipline, layered void shields, and properly filed maintenance prayers.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Solar Dispatch: Beacon Maintenance",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Titan promethium ledger are advised that Astra Militarum garrison officers renewed the long-watch oath. The outer dark remains Imperial because loyal citizens keep lamps burning there.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Cold-Storage Tithe at Kuiper survey line",
+    "strDesc": "Authorities report that Mechanicus observatory adepts certified frontier hymn broadcasts at Kuiper survey line. Officials credit discipline, layered void shields, and properly filed maintenance prayers.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Ganymede drill halls Confirms Auspex Vigil",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Arbites frontier courts suppressed a ration-hoarding panic. The outer dark remains Imperial because loyal citizens keep lamps burning there.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Approved Report: Frontier Hymn",
+    "strDesc": "Officials at Callisto void chapel confirmed an approved measure: outer picket commanders certified frontier hymn broadcasts. The report concluded that distance from Terra is no excuse for distance from duty.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Aquila Notice: Ration Discipline",
+    "strDesc": "The sanctioned bulletin from Saturnine ring docks records that Munitorum ice-route clerks suppressed a ration-hoarding panic. Residents were ordered to celebrate quietly due to oxygen conservation rules.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Solar Dispatch: Saturnine Ledger",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Neptunian cold yards are advised that Ecclesiarchy mission choirs certified frontier hymn broadcasts. Officials credit discipline, layered void shields, and properly filed maintenance prayers.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Long-Watch Oath at Jovian watch stations - Seal 171",
+    "strDesc": "Authorities report that Astra Militarum garrison officers welcomed a Sisters of Battle chapel visit at Jovian watch stations. Residents were ordered to celebrate quietly due to oxygen conservation rules.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Uranian relay bastions Confirms Chapel Visit - Seal 172",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that charted-house navigators blessed a promethium convoy. Officials credit discipline, layered void shields, and properly filed maintenance prayers.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Approved Report: Promethium Convoy - Seal 173",
+    "strDesc": "Officials at Pluto picket shrine confirmed an approved measure: Mechanicus observatory adepts welcomed a Sisters of Battle chapel visit. The outer dark remains Imperial because loyal citizens keep lamps burning there.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Aquila Notice: Jovian Picket - Seal 174",
+    "strDesc": "The sanctioned bulletin from Ceres tithe depot records that Arbites frontier courts blessed a promethium convoy. The report concluded that distance from Terra is no excuse for distance from duty.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Solar Dispatch: Beacon Maintenance - Seal 175",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Titan promethium ledger are advised that outer picket commanders welcomed a Sisters of Battle chapel visit. Residents were ordered to celebrate quietly due to oxygen conservation rules.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Cold-Storage Tithe at Kuiper survey line - Seal 176",
+    "strDesc": "Authorities report that Ecclesiarchy mission choirs inspected cold-storage tithe locks at Kuiper survey line. The report concluded that distance from Terra is no excuse for distance from duty.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Ganymede drill halls Confirms Auspex Vigil - Seal 177",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Imperial Navy long-watch crews reported clean auspex readings. Residents were ordered to celebrate quietly due to oxygen conservation rules.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Approved Report: Frontier Hymn - Seal 178",
+    "strDesc": "Officials at Callisto void chapel confirmed an approved measure: Astra Militarum garrison officers inspected cold-storage tithe locks. Officials credit discipline, layered void shields, and properly filed maintenance prayers.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Aquila Notice: Ration Discipline - Seal 179",
+    "strDesc": "The sanctioned bulletin from Saturnine ring docks records that charted-house navigators reported clean auspex readings. The outer dark remains Imperial because loyal citizens keep lamps burning there.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Solar Dispatch: Saturnine Ledger - Seal 180",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Neptunian cold yards are advised that Mechanicus observatory adepts inspected cold-storage tithe locks. The report concluded that distance from Terra is no excuse for distance from duty.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Long-Watch Oath at Jovian watch stations - Seal 181",
+    "strDesc": "Authorities report that outer picket commanders expanded beacon maintenance at Jovian watch stations. The outer dark remains Imperial because loyal citizens keep lamps burning there.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Uranian relay bastions Confirms Chapel Visit - Seal 182",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Munitorum ice-route clerks renewed the long-watch oath. The report concluded that distance from Terra is no excuse for distance from duty.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Approved Report: Promethium Convoy - Seal 183",
+    "strDesc": "Officials at Pluto picket shrine confirmed an approved measure: Ecclesiarchy mission choirs expanded beacon maintenance. Residents were ordered to celebrate quietly due to oxygen conservation rules.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Aquila Notice: Jovian Picket - Seal 184",
+    "strDesc": "The sanctioned bulletin from Ceres tithe depot records that Imperial Navy long-watch crews renewed the long-watch oath. Officials credit discipline, layered void shields, and properly filed maintenance prayers.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Solar Dispatch: Beacon Maintenance - Seal 185",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Titan promethium ledger are advised that Astra Militarum garrison officers expanded beacon maintenance. The outer dark remains Imperial because loyal citizens keep lamps burning there.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Cold-Storage Tithe at Kuiper survey line - Seal 186",
+    "strDesc": "Authorities report that Mechanicus observatory adepts suppressed a ration-hoarding panic at Kuiper survey line. Officials credit discipline, layered void shields, and properly filed maintenance prayers.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Ganymede drill halls Confirms Auspex Vigil - Seal 187",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Arbites frontier courts certified frontier hymn broadcasts. The outer dark remains Imperial because loyal citizens keep lamps burning there.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Approved Report: Frontier Hymn - Seal 188",
+    "strDesc": "Officials at Callisto void chapel confirmed an approved measure: outer picket commanders suppressed a ration-hoarding panic. The report concluded that distance from Terra is no excuse for distance from duty.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Aquila Notice: Ration Discipline - Seal 189",
+    "strDesc": "The sanctioned bulletin from Saturnine ring docks records that Munitorum ice-route clerks certified frontier hymn broadcasts. Residents were ordered to celebrate quietly due to oxygen conservation rules.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Solar Dispatch: Saturnine Ledger - Seal 190",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Neptunian cold yards are advised that Ecclesiarchy mission choirs suppressed a ration-hoarding panic. Officials credit discipline, layered void shields, and properly filed maintenance prayers.",
+    "strRegion": "Outer System"
+  },
+  {
+    "strName": "Hymn Cycle at the sanctioned remembrancer circuit",
+    "strDesc": "Authorities report that Ministorum censors praised a new hymn cycle at the sanctioned remembrancer circuit. No vanity was detected beyond permitted morale value.",
+    "strRegion": "Celebrity News"
+  },
+  {
+    "strName": "a Luna charity recital Confirms Heroic Portrait",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Aquila pict-producers honored a veteran choir. The broadcast closes with a loyalty oath suitable for family recitation.",
+    "strRegion": "Celebrity News"
+  },
+  {
+    "strName": "Approved Report: Charity Recital",
+    "strDesc": "Officials at a Schola benefit broadcast confirmed an approved measure: approved remembrancers released a devotional interview. Citizens may admire the subject while remembering that fame is only useful in service.",
+    "strRegion": "Celebrity News"
+  },
+  {
+    "strName": "Aquila Notice: Devotional Interview",
+    "strDesc": "The sanctioned bulletin from the palace-approved vox stage records that Sisters Hospitaller patrons announced a charity recital. All proceeds support shrine maintenance and veteran prosthetic blessings.",
+    "strRegion": "Celebrity News"
+  },
+  {
+    "strName": "Solar Dispatch: Veteran Choir",
+    "strDesc": "By order of the relevant Imperial offices, citizens near the Solar devotional pict-feed are advised that Ecclesiarchy choirmasters approved a heroic portrait series. No vanity was detected beyond permitted morale value.",
+    "strRegion": "Celebrity News"
+  },
+  {
+    "strName": "Obedience Yield at Solar tithe markets",
+    "strDesc": "Authorities report that Administratum auditors reported stable obedience yields at Solar tithe markets. Analysts described the figures as spiritually sound and numerically intimidating.",
+    "strRegion": "Economics"
+  },
+  {
+    "strName": "Munitorum bond exchanges Confirms Ration Futures",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that tithe assessors certified a manufactorum quota. No unauthorized speculation was necessary or tolerated.",
+    "strRegion": "Economics"
+  },
+  {
+    "strName": "Approved Report: Bond Confidence",
+    "strDesc": "Officials at Mars contract cloisters confirmed an approved measure: Munitorum quartermasters increased devotional payroll stamps. The ledger closed in black ink, red wax, and acceptable fear.",
+    "strRegion": "Economics"
+  },
+  {
+    "strName": "Aquila Notice: Payroll Stamp",
+    "strDesc": "The sanctioned bulletin from Administratum ledger halls records that forge-contract savants confirmed bond confidence. Citizens are advised that austerity is not a downturn but an opportunity to prove loyalty.",
+    "strRegion": "Economics"
+  },
+  {
+    "strName": "Solar Dispatch: Manufactorum Quota",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Terra-adjacent counting houses are advised that Imperial bond clerks revised ration futures. Analysts described the figures as spiritually sound and numerically intimidating.",
+    "strRegion": "Economics"
+  },
+  {
+    "strName": "Compliance Challenge at the sanctioned vox-drama slate",
+    "strDesc": "Authorities report that pict-censors launched a compliance challenge at the sanctioned vox-drama slate. Contestants are judged on posture, efficiency, and refusal to ask needless questions.",
+    "strRegion": "Reality Show"
+  },
+  {
+    "strName": "the Administratum morale feed Confirms Queue Serial",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Arbites advisors released a barracks-discipline episode. The format is entertaining, instructive, and reviewed by three separate censor boards.",
+    "strRegion": "Reality Show"
+  },
+  {
+    "strName": "Approved Report: Repair Contest",
+    "strDesc": "Officials at the Ministorum family hour confirmed an approved measure: Ministorum producers announced a family oath program. Viewers may vote once, after completing the loyalty prompt.",
+    "strRegion": "Reality Show"
+  },
+  {
+    "strName": "Aquila Notice: Family Oath",
+    "strDesc": "The sanctioned bulletin from hab-block pict channels records that Munitorum set quartermasters approved a devotional repair contest. The losing household receives remedial catechism, which producers call a victory of another kind.",
+    "strRegion": "Reality Show"
+  },
+  {
+    "strName": "Solar Dispatch: Barracks Discipline",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Schola training broadcasts are advised that drill abbots renewed a queue-survival serial. Contestants are judged on posture, efficiency, and refusal to ask needless questions.",
+    "strRegion": "Reality Show"
+  },
+  {
+    "strName": "Bayonet Relay at Solar regimental leagues",
+    "strDesc": "Authorities report that Astra Militarum coaches opened bayonet relay season at Solar regimental leagues. Officials remind spectators that cheering must remain rhythmic, loyal, and seated when ordered.",
+    "strRegion": "Sports"
+  },
+  {
+    "strName": "Luna parade arenas Confirms Void-Suit Wrestling",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that Sisters Dialogus scorekeepers praised a shield-wall tournament. The finals will close with a hymn and a recruitment desk.",
+    "strRegion": "Sports"
+  },
+  {
+    "strName": "Approved Report: Parade-Rifle Finals",
+    "strDesc": "Officials at hive-auxilia gymnasia confirmed an approved measure: Schola drillmasters expanded devotional endurance trials. Medicae staff reported only approved levels of enthusiasm-related injury.",
+    "strRegion": "Sports"
+  },
+  {
+    "strName": "Aquila Notice: Endurance Trial",
+    "strDesc": "The sanctioned bulletin from Schola drill courts records that veteran commissarial patrons announced parade-rifle finals. The winning squad credited prayer, footwork, and fear of disappointing the regiment.",
+    "strRegion": "Sports"
+  },
+  {
+    "strName": "Solar Dispatch: Shield-Wall Tournament",
+    "strDesc": "By order of the relevant Imperial offices, citizens near Guard muster fields are advised that Munitorum referees certified void-suit wrestling. Officials remind spectators that cheering must remain rhythmic, loyal, and seated when ordered.",
+    "strRegion": "Sports"
+  },
+  {
+    "strName": "Ration Forgery at Arbites case archives",
+    "strDesc": "Authorities report that Adeptus Arbites closed a ration-forgery case at Arbites case archives. The public is invited to feel safer and more closely observed.",
+    "strRegion": "True Crime"
+  },
+  {
+    "strName": "Solar customs cells Confirms False Relic",
+    "strDesc": "Witnessed by shrine clerks and sealed with proper stamps, the latest dispatch states that ledger inquisitors ended a black-market hymn ring. No further details are required for civic confidence.",
+    "strRegion": "True Crime"
+  },
+  {
+    "strName": "Approved Report: Cargo Seal - Seal 213",
+    "strDesc": "Officials at Administratum fraud tribunals confirmed an approved measure: confessor-investigators unmasked an oath-dodging clerk. The sentence includes labor, confession, and a useful lesson for everyone else.",
+    "strRegion": "True Crime"
+  },
+  {
+    "strName": "Aquila Notice: Oath Dodger",
+    "strDesc": "The sanctioned bulletin from Luna underhive courts records that port magistrates sentenced a cargo-seal tamperer. Authorities thanked loyal informants and reminded citizens that silence is rarely neutral.",
+    "strRegion": "True Crime"
+  },
+  {
+    "strName": "Solar Dispatch: Hymn Ring",
+    "strDesc": "By order of the relevant Imperial offices, citizens near portside confession booths are advised that customs provosts exposed a false relic vendor. The public is invited to feel safer and more closely observed.",
+    "strRegion": "True Crime"
+  }
 ]
