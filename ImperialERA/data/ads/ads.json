@@ -1,542 +1,542 @@
 [
   {
-    "strName": "Aquila Recaff: Notice",
-    "strDesc": "Aquila Recaff - sanctioned bitterness for the loyal worker. Report alert to your station, warm your hands, and thank the Throne before the first sip. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Aquila Recaff Morning Tin",
+    "strDesc": "Begin the shift alert, grateful, and slightly afraid of wasting time. Aquila Recaff is roasted under Ministorum license and stamped for consumption before dawn bells, muster calls, and unexpectedly long queues."
   },
   {
-    "strName": "Aquila Recaff: Vox Offer",
-    "strDesc": "Aquila Recaff - sanctioned bitterness for the loyal worker. Report alert to your station, warm your hands, and thank the Throne before the first sip. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Munitorum Field Spoon No. 12",
+    "strDesc": "A soldier can lose a boot, a bedroll, or a sense of humor. He must not lose his spoon. The No. 12 is dull-edged, regulation length, and suitable for rations, prayer tapping, and emergency morale."
   },
   {
-    "strName": "Aquila Recaff: Household Edition",
-    "strDesc": "Aquila Recaff - sanctioned bitterness for the loyal worker. Report alert to your station, warm your hands, and thank the Throne before the first sip. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Saint Katherine Hab-Candle",
+    "strDesc": "One candle for remembrance, one for resolve, one for the family member currently late to devotional assembly. Burns evenly in low gravity and produces a smoke trail judged acceptably reverent."
   },
   {
-    "strName": "Aquila Recaff: Pilgrim Grade",
-    "strDesc": "Aquila Recaff - sanctioned bitterness for the loyal worker. Report alert to your station, warm your hands, and thank the Throne before the first sip. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Servo-Skull Message Errands",
+    "strDesc": "Your notice, apology, tithe receipt, or court summons delivered by discreet skull-servitor. Chirps twice for success, once for obstruction, and continuously if the addressee attempts to flee."
   },
   {
-    "strName": "Aquila Recaff: Inspection Ready",
-    "strDesc": "Aquila Recaff - sanctioned bitterness for the loyal worker. Report alert to your station, warm your hands, and thank the Throne before the first sip. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Battlefleet Solar Recruitment Vox",
+    "strDesc": "See the stars from the armored side of a cannon port. Battlefleet Solar seeks deckhands, signal adepts, shrine sweepers, and citizens whose idea of a horizon includes void shields."
   },
   {
-    "strName": "Munitorum Ration Brick: Notice",
-    "strDesc": "Munitorum Ration Brick - field strength nutrition for obedient citizens. Each stamped block is dense, shelf-stable, and approved for long vigils in queue or trench. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Ecclesiarchy Dawn Hymnal Set",
+    "strDesc": "Approved verses for the first meal bell, the second labor bell, and the private moment when a citizen wonders whether complaining counts as thought-crime. It often does. Sing louder."
   },
   {
-    "strName": "Munitorum Ration Brick: Vox Offer",
-    "strDesc": "Munitorum Ration Brick - field strength nutrition for obedient citizens. Each stamped block is dense, shelf-stable, and approved for long vigils in queue or trench. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Mars-Red Boot Polish",
+    "strDesc": "Bring a forge-world shine to boots, railings, tool cases, and household shrines. Not for consumption, oath sealing, or unauthorized attempts to look like a Tech-Priest."
   },
   {
-    "strName": "Munitorum Ration Brick: Household Edition",
-    "strDesc": "Munitorum Ration Brick - field strength nutrition for obedient citizens. Each stamped block is dense, shelf-stable, and approved for long vigils in queue or trench. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Arbites Civic Whistle",
+    "strDesc": "Suspicion should not remain trapped in the lungs. Blow once for disorder, twice for sedition, and three times if you are uncertain but eager to assist public safety."
   },
   {
-    "strName": "Munitorum Ration Brick: Pilgrim Grade",
-    "strDesc": "Munitorum Ration Brick - field strength nutrition for obedient citizens. Each stamped block is dense, shelf-stable, and approved for long vigils in queue or trench. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Administratum Queue Cushion",
+    "strDesc": "For citizens who know that endurance is paperwork's first virtue. Numbered, wipe-clean, and thin enough to remind you that comfort is a privilege granted by schedule."
   },
   {
-    "strName": "Munitorum Ration Brick: Inspection Ready",
-    "strDesc": "Munitorum Ration Brick - field strength nutrition for obedient citizens. Each stamped block is dense, shelf-stable, and approved for long vigils in queue or trench. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Sororitas Purity Thread",
+    "strDesc": "White devotional thread for sleeves, scripture wraps, and the quiet repair of garments worn thin by righteous labor. Every spool inspected by a Sister Dialogus for legible piety."
   },
   {
-    "strName": "Saint Sabbat Candle Pack: Notice",
-    "strDesc": "Saint Sabbat Candle Pack - devotional light for household shrines. A clean flame, a clean conscience, and a reminder that darkness is not a citizen's birthright. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Corpse-Starch Hearth Loaf",
+    "strDesc": "A family staple with a name everyone is encouraged not to examine too closely. Toasts well, slices thinly, and pairs with duty, recaff, or silence."
   },
   {
-    "strName": "Saint Sabbat Candle Pack: Vox Offer",
-    "strDesc": "Saint Sabbat Candle Pack - devotional light for household shrines. A clean flame, a clean conscience, and a reminder that darkness is not a citizen's birthright. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Cadian Posture Rod",
+    "strDesc": "Stand as if Cadia still watches. This household training aid clicks when the spine droops, buzzes when shoulders wander, and recites a short reprimand when hidden under bedding."
   },
   {
-    "strName": "Saint Sabbat Candle Pack: Household Edition",
-    "strDesc": "Saint Sabbat Candle Pack - devotional light for household shrines. A clean flame, a clean conscience, and a reminder that darkness is not a citizen's birthright. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Luna Pilgrim Token Purse",
+    "strDesc": "Keep shrine tokens, transit stamps, and small permitted hopes in a sealable purse woven from lunar hab-fiber. Blessed against pickpockets, not against poor planning."
   },
   {
-    "strName": "Saint Sabbat Candle Pack: Pilgrim Grade",
-    "strDesc": "Saint Sabbat Candle Pack - devotional light for household shrines. A clean flame, a clean conscience, and a reminder that darkness is not a citizen's birthright. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Mechanicus Toaster Appeasement Kit",
+    "strDesc": "Includes incense, copper wire, a tiny brush, and a laminated apology to the machine spirit. Use before breakfast failures become theological incidents."
   },
   {
-    "strName": "Saint Sabbat Candle Pack: Inspection Ready",
-    "strDesc": "Saint Sabbat Candle Pack - devotional light for household shrines. A clean flame, a clean conscience, and a reminder that darkness is not a citizen's birthright. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Imperial Guard Family Portrait Day",
+    "strDesc": "Your son or daughter may soon depart in uniform. Preserve their smile before the helmet, the mud, and the glorious shouting. Discounts for families providing their own regimental banner."
   },
   {
-    "strName": "Ecclesiarchy Dawn Hymnal Vox-Slate: Notice",
-    "strDesc": "Ecclesiarchy Dawn Hymnal Vox-Slate - approved verses for the first hour. Let every compartment begin with harmony, reverence, and correct intonation. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Vox-Approved Nursery Rhymes",
+    "strDesc": "Soft lessons for hard futures. Teach infants about the Emperor, the Aquila, basic ration discipline, and why strangers in unsanctioned masks are not to be hugged."
   },
   {
-    "strName": "Ecclesiarchy Dawn Hymnal Vox-Slate: Vox Offer",
-    "strDesc": "Ecclesiarchy Dawn Hymnal Vox-Slate - approved verses for the first hour. Let every compartment begin with harmony, reverence, and correct intonation. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Hospitaller Bruise Balm",
+    "strDesc": "For minor injuries sustained during labor, drill, pilgrimage, or enthusiastic hymn clapping. If the bruise speaks, glows, or quotes forbidden poetry, report to a medicae immediately."
   },
   {
-    "strName": "Ecclesiarchy Dawn Hymnal Vox-Slate: Household Edition",
-    "strDesc": "Ecclesiarchy Dawn Hymnal Vox-Slate - approved verses for the first hour. Let every compartment begin with harmony, reverence, and correct intonation. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Lex Imperialis Pocket Extract",
+    "strDesc": "A compact guide to the laws most likely to improve your commute. Includes tabs for loitering, muttering, queue-cutting, icon defacement, and suspicious enthusiasm."
   },
   {
-    "strName": "Ecclesiarchy Dawn Hymnal Vox-Slate: Pilgrim Grade",
-    "strDesc": "Ecclesiarchy Dawn Hymnal Vox-Slate - approved verses for the first hour. Let every compartment begin with harmony, reverence, and correct intonation. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Schola Progenium Copybook",
+    "strDesc": "Wide-ruled pages for young hands learning that penmanship, obedience, and grenade safety all begin with straight lines. Includes fifty model sentences of loyal grammar."
   },
   {
-    "strName": "Ecclesiarchy Dawn Hymnal Vox-Slate: Inspection Ready",
-    "strDesc": "Ecclesiarchy Dawn Hymnal Vox-Slate - approved verses for the first hour. Let every compartment begin with harmony, reverence, and correct intonation. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Tithe Day Reminder Chime",
+    "strDesc": "Never again miss an offering window. This cheerful brass chime rings at dawn, noon, dusk, and whenever your household attempts to ignore the ledger."
   },
   {
-    "strName": "Omnissian Maintenance Unguent: Notice",
-    "strDesc": "Omnissian Maintenance Unguent - blessed machine care for domestic mechanisms. Apply with the two-finger cog sign and never question why the toaster knows your name. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Void-Rated Prayer Mat",
+    "strDesc": "Kneel securely in station gravity, shipboard drift, or mild decompression anxiety. Grip backing tested by naval ratings who had already learned the value of holding on."
   },
   {
-    "strName": "Omnissian Maintenance Unguent: Vox Offer",
-    "strDesc": "Omnissian Maintenance Unguent - blessed machine care for domestic mechanisms. Apply with the two-finger cog sign and never question why the toaster knows your name. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Approved Lho Substitute Sticks",
+    "strDesc": "All the hand motion, none of the unsanctioned smoke. Chew, gesture, and stare into the distance like a veteran while remaining fully compliant with hab ventilation codes."
   },
   {
-    "strName": "Omnissian Maintenance Unguent: Household Edition",
-    "strDesc": "Omnissian Maintenance Unguent - blessed machine care for domestic mechanisms. Apply with the two-finger cog sign and never question why the toaster knows your name. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Commissarial Motivation Calendar",
+    "strDesc": "Twelve months of stern faces, punctual reminders, and inspirational phrases such as 'The Late Are Often Also Wrong.' Includes extra pages for surprise inspections."
   },
   {
-    "strName": "Omnissian Maintenance Unguent: Pilgrim Grade",
-    "strDesc": "Omnissian Maintenance Unguent - blessed machine care for domestic mechanisms. Apply with the two-finger cog sign and never question why the toaster knows your name. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Sisters Hospitaller Charity Bowl",
+    "strDesc": "Drop a coin for bandages, augmetic straps, and the quiet mercy of competent triage. The bowl thanks generous citizens and remembers the sound of empty pockets."
   },
   {
-    "strName": "Omnissian Maintenance Unguent: Inspection Ready",
-    "strDesc": "Omnissian Maintenance Unguent - blessed machine care for domestic mechanisms. Apply with the two-finger cog sign and never question why the toaster knows your name. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Terra-View Window Tint",
+    "strDesc": "For hab windows facing nothing of spiritual interest. This approved film overlays a modest suggestion of Holy Terra so every breakfast feels slightly more supervised."
   },
   {
-    "strName": "Astra Militarum Muster Poster: Notice",
-    "strDesc": "Astra Militarum Muster Poster - heroic recruitment copy for family habs. Place one above the meal alcove and remind the young that service is the finest inheritance. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Noospheric Home Audit",
+    "strDesc": "Adeptus Mechanicus junior adepts will inspect your cogitator, purge lazy subroutines, and confirm that your household device has not developed opinions beyond its station."
   },
   {
-    "strName": "Astra Militarum Muster Poster: Vox Offer",
-    "strDesc": "Astra Militarum Muster Poster - heroic recruitment copy for family habs. Place one above the meal alcove and remind the young that service is the finest inheritance. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Ration Queue Story Cards",
+    "strDesc": "Keep children patient with tales of saints, sieges, and citizens who waited bravely without asking how much longer. Durable enough for three generations of delays."
   },
   {
-    "strName": "Astra Militarum Muster Poster: Household Edition",
-    "strDesc": "Astra Militarum Muster Poster - heroic recruitment copy for family habs. Place one above the meal alcove and remind the young that service is the finest inheritance. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Battle-Sister Icon Postcards",
+    "strDesc": "Send courage through the post. Each card depicts an approved heroine, a legible prayer, and enough gold ink to make the recipient sit up straighter."
   },
   {
-    "strName": "Astra Militarum Muster Poster: Pilgrim Grade",
-    "strDesc": "Astra Militarum Muster Poster - heroic recruitment copy for family habs. Place one above the meal alcove and remind the young that service is the finest inheritance. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Munitorum Sock Exchange",
+    "strDesc": "Turn in three worn socks, receive two serviceable ones, and learn a lesson about sacrifice. Available at participating quartermaster desks while forms remain unburned."
   },
   {
-    "strName": "Astra Militarum Muster Poster: Inspection Ready",
-    "strDesc": "Astra Militarum Muster Poster - heroic recruitment copy for family habs. Place one above the meal alcove and remind the young that service is the finest inheritance. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Orbital Shrine Tour Lottery",
+    "strDesc": "Enter for a chance to visit three chapels, two relic alcoves, and one gift counter orbiting blessed Terra. Winners must pass security, catechism, and stair discipline."
   },
   {
-    "strName": "Sororitas Purity Seal Kit: Notice",
-    "strDesc": "Sororitas Purity Seal Kit - small-format seals for lockers and prayer books. Printed under Ministorum license for citizens who prefer their daily vows visible. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Hive Air Courtesy Mask",
+    "strDesc": "Filters soot, incense, and neighborly opinions. Printed with a small Aquila so your exhalations remain visibly loyal in crowded transit."
   },
   {
-    "strName": "Sororitas Purity Seal Kit: Vox Offer",
-    "strDesc": "Sororitas Purity Seal Kit - small-format seals for lockers and prayer books. Printed under Ministorum license for citizens who prefer their daily vows visible. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Naval Deckhand Gloves",
+    "strDesc": "Grip rails, crates, cables, and your courage. These gloves are voidship gray, machine-washable, and marked left and right for ratings under pressure."
   },
   {
-    "strName": "Sororitas Purity Seal Kit: Household Edition",
-    "strDesc": "Sororitas Purity Seal Kit - small-format seals for lockers and prayer books. Printed under Ministorum license for citizens who prefer their daily vows visible. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Canoness Verity's Table Salt",
+    "strDesc": "A pinch of mineral discipline for soup, loaf, and boiled ration slabs. Packaged with a short homily on preserving flavor without inviting decadence."
   },
   {
-    "strName": "Sororitas Purity Seal Kit: Pilgrim Grade",
-    "strDesc": "Sororitas Purity Seal Kit - small-format seals for lockers and prayer books. Printed under Ministorum license for citizens who prefer their daily vows visible. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Approved Dream Recorder Seal",
+    "strDesc": "Troubled by suspicious dreams? Seal them in a disposable confession capsule and submit by morning. Peace of mind begins where self-reporting ends."
   },
   {
-    "strName": "Sororitas Purity Seal Kit: Inspection Ready",
-    "strDesc": "Sororitas Purity Seal Kit - small-format seals for lockers and prayer books. Printed under Ministorum license for citizens who prefer their daily vows visible. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Skitarii Marching Metronome",
+    "strDesc": "For factories, drill halls, and family exercise corridors. Set the pace to Steady Advance, Devotional Trot, or Absolutely Not Running From Anything."
   },
   {
-    "strName": "Arbites Neighborhood Compliance Bell: Notice",
-    "strDesc": "Arbites Neighborhood Compliance Bell - a civic alarm for suspicious behavior. One pull summons attention, two pulls record a statement, three pulls confess impatience. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Remembrancer Victory Picts",
+    "strDesc": "Brighten your hab with officially framed victories. Every explosion is heroic, every banner is centered, and every casualty count has been tastefully omitted."
   },
   {
-    "strName": "Arbites Neighborhood Compliance Bell: Vox Offer",
-    "strDesc": "Arbites Neighborhood Compliance Bell - a civic alarm for suspicious behavior. One pull summons attention, two pulls record a statement, three pulls confess impatience. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Pilgrim Foot Powder of Saint Drusus",
+    "strDesc": "For the long road to the shrine, the longer road back, and the longest road through inspection. Keeps feet dry, humble, and faintly medicinal."
   },
   {
-    "strName": "Arbites Neighborhood Compliance Bell: Household Edition",
-    "strDesc": "Arbites Neighborhood Compliance Bell - a civic alarm for suspicious behavior. One pull summons attention, two pulls record a statement, three pulls confess impatience. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Administratum Ink Brick",
+    "strDesc": "Black enough for signatures, red enough for warnings, and thick enough to remind the page that bureaucracy is a physical force."
   },
   {
-    "strName": "Arbites Neighborhood Compliance Bell: Pilgrim Grade",
-    "strDesc": "Arbites Neighborhood Compliance Bell - a civic alarm for suspicious behavior. One pull summons attention, two pulls record a statement, three pulls confess impatience. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Children's Boltgun Wooden Replica",
+    "strDesc": "Non-firing, non-heretical, and beautifully sanded. Teaches grip discipline, muzzle respect, and the difference between playtime and actual military requisition."
   },
   {
-    "strName": "Arbites Neighborhood Compliance Bell: Inspection Ready",
-    "strDesc": "Arbites Neighborhood Compliance Bell - a civic alarm for suspicious behavior. One pull summons attention, two pulls record a statement, three pulls confess impatience. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Chapel Pew Reservation Stamp",
+    "strDesc": "For families who arrive early, kneel properly, and prefer their devotion with a guaranteed sightline. Stamp valid only where local clergy approve comfort."
   },
   {
-    "strName": "Administratum Queue Token Wallet: Notice",
-    "strDesc": "Administratum Queue Token Wallet - keeps sacred paperwork flat and numbered. Preserve your stamped forms from sweat, tears, and unauthorized folding. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Oath-Bound Laundry Tablets",
+    "strDesc": "Remove grease, incense, ration gravy, and the smell of fear from work robes and drill tunics. Does not remove guilt; consult clergy."
   },
   {
-    "strName": "Administratum Queue Token Wallet: Vox Offer",
-    "strDesc": "Administratum Queue Token Wallet - keeps sacred paperwork flat and numbered. Preserve your stamped forms from sweat, tears, and unauthorized folding. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Astra Militarum Boot Camp Pict Serial",
+    "strDesc": "Laugh, learn, and silently compare yourself to recruits doing worse. Every episode ends with improvement, a hymn, and someone discovering the importance of socks."
   },
   {
-    "strName": "Administratum Queue Token Wallet: Household Edition",
-    "strDesc": "Administratum Queue Token Wallet - keeps sacred paperwork flat and numbered. Preserve your stamped forms from sweat, tears, and unauthorized folding. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Holy Terra Snow Globe",
+    "strDesc": "Shake gently and watch tiny golden flecks descend upon a licensed miniature palace dome. Do not worship the globe. Worship correctly in its presence."
   },
   {
-    "strName": "Administratum Queue Token Wallet: Pilgrim Grade",
-    "strDesc": "Administratum Queue Token Wallet - keeps sacred paperwork flat and numbered. Preserve your stamped forms from sweat, tears, and unauthorized folding. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Arbites Door Plaque",
+    "strDesc": "'This Household Reports Promptly.' A simple brass warning to criminals, neighbors, and relatives who borrow tools without filing the proper request."
   },
   {
-    "strName": "Administratum Queue Token Wallet: Inspection Ready",
-    "strDesc": "Administratum Queue Token Wallet - keeps sacred paperwork flat and numbered. Preserve your stamped forms from sweat, tears, and unauthorized folding. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Mechanicus Pipe Knock Charm",
+    "strDesc": "Attach to domestic plumbing and strike twice before repairs. If the pipe answers, stop, bow, and request qualified red-robed intervention."
   },
   {
-    "strName": "Schola Progenium Primer: Notice",
-    "strDesc": "Schola Progenium Primer - alphabet lessons with duty examples. A is for Aquila, B is for Boltgun, C is for Confession completed promptly. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Saint Celestine Morning Tonic",
+    "strDesc": "A bright, bitter syrup for citizens who need courage before the first bell. Contains vitamins, mineral ash, and a legally safe amount of inspiration."
   },
   {
-    "strName": "Schola Progenium Primer: Vox Offer",
-    "strDesc": "Schola Progenium Primer - alphabet lessons with duty examples. A is for Aquila, B is for Boltgun, C is for Confession completed promptly. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Munitorum Crate Furniture",
+    "strDesc": "Why buy a chair when a retired supply crate already knows service? Sanded edges, reinforced corners, and serial numbers left visible for conversation."
   },
   {
-    "strName": "Schola Progenium Primer: Household Edition",
-    "strDesc": "Schola Progenium Primer - alphabet lessons with duty examples. A is for Aquila, B is for Boltgun, C is for Confession completed promptly. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Solar Choir Subscription Slate",
+    "strDesc": "Receive a new approved hymn every week, plus seasonal chants for docking delays, ration audits, and moments when the neighbor's music grows questionable."
   },
   {
-    "strName": "Schola Progenium Primer: Pilgrim Grade",
-    "strDesc": "Schola Progenium Primer - alphabet lessons with duty examples. A is for Aquila, B is for Boltgun, C is for Confession completed promptly. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Purity Seal Lunch Wraps",
+    "strDesc": "Keep sandwiches tidy and intentions tidier. Each wrap bears a small printed oath and a wax-red closure safe for most workplace lockers."
   },
   {
-    "strName": "Schola Progenium Primer: Inspection Ready",
-    "strDesc": "Schola Progenium Primer - alphabet lessons with duty examples. A is for Aquila, B is for Boltgun, C is for Confession completed promptly. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Guard Veteran Advice Booth",
+    "strDesc": "Ask a veteran how to pack, stand, wait, duck, salute, and not volunteer twice by accident. Ten minutes per citizen. No strategic questions."
   },
   {
-    "strName": "Servo-Skull Courier Bond: Notice",
-    "strDesc": "Servo-Skull Courier Bond - reliable delivery by sanctified cranial platform. Your message arrives sealed, witnessed, and accompanied by gentle mechanical humming. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Mars Pattern Kettle Bell",
+    "strDesc": "A cast-iron exercise weight shaped with cog-tooth ridges. Lift, count, breathe, and offer thanks that your limbs remain mostly original."
   },
   {
-    "strName": "Servo-Skull Courier Bond: Vox Offer",
-    "strDesc": "Servo-Skull Courier Bond - reliable delivery by sanctified cranial platform. Your message arrives sealed, witnessed, and accompanied by gentle mechanical humming. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Devotional Traffic Lantern",
+    "strDesc": "Red means halt and reflect. Amber means prepare your documents. Green means proceed while remaining aware that permission is temporary."
   },
   {
-    "strName": "Servo-Skull Courier Bond: Household Edition",
-    "strDesc": "Servo-Skull Courier Bond - reliable delivery by sanctified cranial platform. Your message arrives sealed, witnessed, and accompanied by gentle mechanical humming. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Orbital Dock Lunch Pail",
+    "strDesc": "Mag-sealed, dent-resistant, and wide enough for ration bars, prayer beads, and a folded letter from home that you will definitely answer soon."
   },
   {
-    "strName": "Servo-Skull Courier Bond: Pilgrim Grade",
-    "strDesc": "Servo-Skull Courier Bond - reliable delivery by sanctified cranial platform. Your message arrives sealed, witnessed, and accompanied by gentle mechanical humming. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Sister Dialogus Pronunciation Slate",
+    "strDesc": "Stop mumbling High Gothic in public ceremonies. Repeat after the slate until the slate stops repeating back in disappointment."
   },
   {
-    "strName": "Servo-Skull Courier Bond: Inspection Ready",
-    "strDesc": "Servo-Skull Courier Bond - reliable delivery by sanctified cranial platform. Your message arrives sealed, witnessed, and accompanied by gentle mechanical humming. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Emperor's Mercy Rain Poncho",
+    "strDesc": "For condenser leaks, shrine processions, and surprise weather in badly roofed habs. Transparent, hooded, and printed with a modest golden Aquila."
   },
   {
-    "strName": "Imperial Tithe Savings Slate: Notice",
-    "strDesc": "Imperial Tithe Savings Slate - plan ahead for lawful contribution. Know your household obligation before your household obligation knows you. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Astropathic Greeting Blanks",
+    "strDesc": "For birthdays, deployments, sanctioned condolences, and messages that must travel farther than common sense. Sold blank to reduce unauthorized emotional improvisation."
   },
   {
-    "strName": "Imperial Tithe Savings Slate: Vox Offer",
-    "strDesc": "Imperial Tithe Savings Slate - plan ahead for lawful contribution. Know your household obligation before your household obligation knows you. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Plasma Furnace Hand Salve",
+    "strDesc": "For cracked knuckles after honest labor near honest heat. Cooling, thick, and lightly scented with machine oil and acceptable sacrifice."
   },
   {
-    "strName": "Imperial Tithe Savings Slate: Household Edition",
-    "strDesc": "Imperial Tithe Savings Slate - plan ahead for lawful contribution. Know your household obligation before your household obligation knows you. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Civic Suspicion Notebook",
+    "strDesc": "A pocket ledger for odd noises, unusual symbols, and neighbors who whistle tunes not found in the hymnal index. Includes carbon copies."
   },
   {
-    "strName": "Imperial Tithe Savings Slate: Pilgrim Grade",
-    "strDesc": "Imperial Tithe Savings Slate - plan ahead for lawful contribution. Know your household obligation before your household obligation knows you. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Litanic Tooth Powder",
+    "strDesc": "Grit, mint, and discipline in every tin. Smile at inspection with teeth polished bright enough to reflect the look of your supervisor."
   },
   {
-    "strName": "Imperial Tithe Savings Slate: Inspection Ready",
-    "strDesc": "Imperial Tithe Savings Slate - plan ahead for lawful contribution. Know your household obligation before your household obligation knows you. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Sanguinala Gift Ribbon",
+    "strDesc": "Red ribbon for lawful gifts, chapel hampers, and parcels sent to distant regiments. Comes pre-printed with 'Return Victorious or Honored.'"
   },
   {
-    "strName": "Void Suit Purity Patch: Notice",
-    "strDesc": "Void Suit Purity Patch - pressure-rated devotional repairs. For small tears, minor shame, and sudden reminders that vacuum is unsympathetic. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Mechanicus Appliance Naming Tags",
+    "strDesc": "A named machine is a respected machine. Label your kettle, fan, lift switch, or suspiciously temperamental door with dignity before it chooses one itself."
   },
   {
-    "strName": "Void Suit Purity Patch: Vox Offer",
-    "strDesc": "Void Suit Purity Patch - pressure-rated devotional repairs. For small tears, minor shame, and sudden reminders that vacuum is unsympathetic. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Imperial Navy Star Map Quilt",
+    "strDesc": "Sleep beneath patrol routes, fortress worlds, and comforting warning icons. Children love the constellations; parents love the built-in recruitment messaging."
   },
   {
-    "strName": "Void Suit Purity Patch: Household Edition",
-    "strDesc": "Void Suit Purity Patch - pressure-rated devotional repairs. For small tears, minor shame, and sudden reminders that vacuum is unsympathetic. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Sanctioned Mourning Veil",
+    "strDesc": "Black, modest, breathable, and suitable for services, victory memorials, and reading casualty lists with composure. Bulk parish rates available."
   },
   {
-    "strName": "Void Suit Purity Patch: Pilgrim Grade",
-    "strDesc": "Void Suit Purity Patch - pressure-rated devotional repairs. For small tears, minor shame, and sudden reminders that vacuum is unsympathetic. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Administratum Form-Finder Tabs",
+    "strDesc": "Color-coded tabs for citizens tired of losing the form that proves they submitted the form that permits them to request the next form."
   },
   {
-    "strName": "Void Suit Purity Patch: Inspection Ready",
-    "strDesc": "Void Suit Purity Patch - pressure-rated devotional repairs. For small tears, minor shame, and sudden reminders that vacuum is unsympathetic. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Guard Issue Wake-Up Siren",
+    "strDesc": "Why rise gently when you can rise prepared? Three volume settings: Barracks, Frontline, and Commissar Is Already In The Room."
   },
   {
-    "strName": "Litanic Tooth Powder: Notice",
-    "strDesc": "Litanic Tooth Powder - mint, chalk, and discipline. Smile for inspection with enamel polished to a standard your supervisor can respect. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Approved Relic Display Hook",
+    "strDesc": "Mount medals, prayer cords, ancestor tools, or that bolt casing your uncle insists is authentic. Rated for reverence, not fraud."
   },
   {
-    "strName": "Litanic Tooth Powder: Vox Offer",
-    "strDesc": "Litanic Tooth Powder - mint, chalk, and discipline. Smile for inspection with enamel polished to a standard your supervisor can respect. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Adeptus Arbites Junior Badge Toy",
+    "strDesc": "For children who point, declare, and demand order. Includes a whistle, a booklet of simple laws, and parental guidance on acceptable accusations."
   },
   {
-    "strName": "Litanic Tooth Powder: Household Edition",
-    "strDesc": "Litanic Tooth Powder - mint, chalk, and discipline. Smile for inspection with enamel polished to a standard your supervisor can respect. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Martian Cog-Cake Mix",
+    "strDesc": "A red velvet devotional cake with cog-shaped stencil. Perfect for namedays, promotion vigils, and machine-blessing anniversaries."
   },
   {
-    "strName": "Litanic Tooth Powder: Pilgrim Grade",
-    "strDesc": "Litanic Tooth Powder - mint, chalk, and discipline. Smile for inspection with enamel polished to a standard your supervisor can respect. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Shrine Wall Soundproofing",
+    "strDesc": "Keep prayers in and neighbor noise out. Also reduces unauthorized music, domestic arguments, and the mysterious thumping from upstairs manufactorum shifts."
   },
   {
-    "strName": "Litanic Tooth Powder: Inspection Ready",
-    "strDesc": "Litanic Tooth Powder - mint, chalk, and discipline. Smile for inspection with enamel polished to a standard your supervisor can respect. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Penitent Fitness Rope",
+    "strDesc": "Skip, count, repent, repeat. Approved by drill abbots for citizens seeking stronger lungs and fewer idle thoughts."
   },
   {
-    "strName": "Adeptus Mechanicus Cogitator Audit: Notice",
-    "strDesc": "Adeptus Mechanicus Cogitator Audit - home data-slate absolution service. Junior adepts remove scrapcode, align subroutines, and glare at your browsing habits. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Voidfarer's Bolt Washer",
+    "strDesc": "Not lucky, because superstition is monitored. Nonetheless, this blessed washer reminds voidfarers to check seals, trust training, and clip their tethers."
   },
   {
-    "strName": "Adeptus Mechanicus Cogitator Audit: Vox Offer",
-    "strDesc": "Adeptus Mechanicus Cogitator Audit - home data-slate absolution service. Junior adepts remove scrapcode, align subroutines, and glare at your browsing habits. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Solar Grain Substitute Flakes",
+    "strDesc": "Crisp, beige, and fortified with everything needed for a citizen who has places to stand and duties to endure."
   },
   {
-    "strName": "Adeptus Mechanicus Cogitator Audit: Household Edition",
-    "strDesc": "Adeptus Mechanicus Cogitator Audit - home data-slate absolution service. Junior adepts remove scrapcode, align subroutines, and glare at your browsing habits. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Confessor's Waiting Room Mints",
+    "strDesc": "Calm breath before confession. Strong peppermint, paper wrapper, and a printed reminder that omission is merely lying with better posture."
   },
   {
-    "strName": "Adeptus Mechanicus Cogitator Audit: Pilgrim Grade",
-    "strDesc": "Adeptus Mechanicus Cogitator Audit - home data-slate absolution service. Junior adepts remove scrapcode, align subroutines, and glare at your browsing habits. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Imperial Creed Wall Primer",
+    "strDesc": "Paint over stains, graffiti, and unauthorized murals with one thick coat of chapel white. Accepts stencils, seals, and stern looks."
   },
   {
-    "strName": "Adeptus Mechanicus Cogitator Audit: Inspection Ready",
-    "strDesc": "Adeptus Mechanicus Cogitator Audit - home data-slate absolution service. Junior adepts remove scrapcode, align subroutines, and glare at your browsing habits. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Battlefield Pen-Pal Registry",
+    "strDesc": "Write to a guardsman. Send news, courage, and absolutely no operational questions. Approved templates available for citizens nervous around sincerity."
   },
   {
-    "strName": "Pilgrim's Terra Savings Bond: Notice",
-    "strDesc": "Pilgrim's Terra Savings Bond - a dream of holy soil, one coin at a time. Invest today so your descendants may glimpse a queue leading toward a queue near Terra. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Ministorum Marriage Oath Upgrade",
+    "strDesc": "Renew your vows with additional clauses for duty, fertility, ration sharing, and mutual reporting of spiritual fatigue. Reception incense sold separately."
   },
   {
-    "strName": "Pilgrim's Terra Savings Bond: Vox Offer",
-    "strDesc": "Pilgrim's Terra Savings Bond - a dream of holy soil, one coin at a time. Invest today so your descendants may glimpse a queue leading toward a queue near Terra. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Armsman's Bulkhead Paint",
+    "strDesc": "A stern gray finish for doors that wish to be taken seriously. Resists boot scuffs, smoke, and most motivational headbutts."
   },
   {
-    "strName": "Pilgrim's Terra Savings Bond: Household Edition",
-    "strDesc": "Pilgrim's Terra Savings Bond - a dream of holy soil, one coin at a time. Invest today so your descendants may glimpse a queue leading toward a queue near Terra. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Servo-Quill Rental Kiosk",
+    "strDesc": "Need a petition copied before the office closes? Rent a servo-quill by the minute. It writes quickly, judges silently, and never misspells 'Imperium.'"
   },
   {
-    "strName": "Pilgrim's Terra Savings Bond: Pilgrim Grade",
-    "strDesc": "Pilgrim's Terra Savings Bond - a dream of holy soil, one coin at a time. Invest today so your descendants may glimpse a queue leading toward a queue near Terra. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Sister of Battle Story Lantern",
+    "strDesc": "Project sanctioned tales of courage on the nursery ceiling. Includes three brightness levels and a parent lock for the martyrdom chapters."
   },
   {
-    "strName": "Pilgrim's Terra Savings Bond: Inspection Ready",
-    "strDesc": "Pilgrim's Terra Savings Bond - a dream of holy soil, one coin at a time. Invest today so your descendants may glimpse a queue leading toward a queue near Terra. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Blessed Fuse Assortment",
+    "strDesc": "For hab circuits, shrine lamps, and small appliances with dramatic timing. Each fuse inspected by an enginseer and threatened with replacement."
   },
   {
-    "strName": "Hearth Shrine Incense: Notice",
-    "strDesc": "Hearth Shrine Incense - fragrance of wax, iron, and solemnity. Approved for hab-units, void bunks, and small offices with adequate ventilation. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "The Emperor Protects Umbrella",
+    "strDesc": "Does the Emperor protect? Yes. Should you also carry an umbrella during condenser flush week? Also yes."
   },
   {
-    "strName": "Hearth Shrine Incense: Vox Offer",
-    "strDesc": "Hearth Shrine Incense - fragrance of wax, iron, and solemnity. Approved for hab-units, void bunks, and small offices with adequate ventilation. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Standard Template Lunch Tray",
+    "strDesc": "Three compartments, one correct orientation, no room for culinary dissent. Stacks efficiently in schools, barracks, and penitential cafeterias."
   },
   {
-    "strName": "Hearth Shrine Incense: Household Edition",
-    "strDesc": "Hearth Shrine Incense - fragrance of wax, iron, and solemnity. Approved for hab-units, void bunks, and small offices with adequate ventilation. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Holy Bolt Round Paperweight",
+    "strDesc": "A deactivated display round for desks where resolve must remain visible. Too heavy for excuses, too polished for neglect."
   },
   {
-    "strName": "Hearth Shrine Incense: Pilgrim Grade",
-    "strDesc": "Hearth Shrine Incense - fragrance of wax, iron, and solemnity. Approved for hab-units, void bunks, and small offices with adequate ventilation. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Pilgrim Queue Songbook",
+    "strDesc": "Forty choruses for lines that bend around shrines, stations, and offices. Includes footnotes explaining when clapping is permitted."
   },
   {
-    "strName": "Hearth Shrine Incense: Inspection Ready",
-    "strDesc": "Hearth Shrine Incense - fragrance of wax, iron, and solemnity. Approved for hab-units, void bunks, and small offices with adequate ventilation. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Aquila Baby Swaddling Cloth",
+    "strDesc": "Soft, warm, and printed with the first symbol a loyal infant should learn to stop chewing eventually."
   },
   {
-    "strName": "Cadian Drill Timer: Notice",
-    "strDesc": "Cadian Drill Timer - discipline at five-minute intervals. Stand straight when it chimes. Sit straighter when it stops. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Munitorum Leftover Scraper",
+    "strDesc": "No ration paste left behind. Curved edge reaches tin corners, bowl seams, and the place where hope sticks after dinner."
   },
   {
-    "strName": "Cadian Drill Timer: Vox Offer",
-    "strDesc": "Cadian Drill Timer - discipline at five-minute intervals. Stand straight when it chimes. Sit straighter when it stops. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Mechanicus Red String Organizer",
+    "strDesc": "Bind cables, devotional tags, and thoughts about why the wall panel hums. Comes with twelve tiny cog charms and a warning against knot heresy."
   },
   {
-    "strName": "Cadian Drill Timer: Household Edition",
-    "strDesc": "Cadian Drill Timer - discipline at five-minute intervals. Stand straight when it chimes. Sit straighter when it stops. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Veteran's Knee Brace",
+    "strDesc": "For old campaigns, new stairs, and weather systems that seem personally hostile. Reinforced, adjustable, and colored regulation almost-black."
   },
   {
-    "strName": "Cadian Drill Timer: Pilgrim Grade",
-    "strDesc": "Cadian Drill Timer - discipline at five-minute intervals. Stand straight when it chimes. Sit straighter when it stops. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Adeptus Terra Desk Shrine",
+    "strDesc": "A compact reminder that your paperwork is part of a plan too vast to understand and too important to smudge."
   },
   {
-    "strName": "Cadian Drill Timer: Inspection Ready",
-    "strDesc": "Cadian Drill Timer - discipline at five-minute intervals. Stand straight when it chimes. Sit straighter when it stops. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Saint's Day Meal Ticket Book",
+    "strDesc": "Prepay devotional feast portions before the queue forms. Tear-off tickets include soup, bread, and a sermon summary for absent relatives."
   },
   {
-    "strName": "Corpse-Starch Family Loaf: Notice",
-    "strDesc": "Corpse-Starch Family Loaf - familiar nutrition, unfamiliar efficiency. No questions, no waste, no weakness. Slice thinly and serve with gratitude. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Battlefleet Lullaby Cylinder",
+    "strDesc": "Gentle engines, distant drums, and soft choir tones for infants who will one day sleep through hull alarms like professionals."
   },
   {
-    "strName": "Corpse-Starch Family Loaf: Vox Offer",
-    "strDesc": "Corpse-Starch Family Loaf - familiar nutrition, unfamiliar efficiency. No questions, no waste, no weakness. Slice thinly and serve with gratitude. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Authorized Icon Repair Paste",
+    "strDesc": "Patch chips in household Aquilas, saint plaques, and shrine corners. Dries gold-ish, accepts polish, and discourages explaining damage to clergy."
   },
   {
-    "strName": "Corpse-Starch Family Loaf: Household Edition",
-    "strDesc": "Corpse-Starch Family Loaf - familiar nutrition, unfamiliar efficiency. No questions, no waste, no weakness. Slice thinly and serve with gratitude. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Solar Customs Travel Belt",
+    "strDesc": "A belt with labeled pouches for documents, permits, seals, and the smaller documents proving you are allowed to carry the larger documents."
   },
   {
-    "strName": "Corpse-Starch Family Loaf: Pilgrim Grade",
-    "strDesc": "Corpse-Starch Family Loaf - familiar nutrition, unfamiliar efficiency. No questions, no waste, no weakness. Slice thinly and serve with gratitude. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Compliant Funeral Parcel",
+    "strDesc": "Everything needed for a modest memorial: incense, black ribbon, printed litany, and a form confirming the deceased remained useful."
   },
   {
-    "strName": "Corpse-Starch Family Loaf: Inspection Ready",
-    "strDesc": "Corpse-Starch Family Loaf - familiar nutrition, unfamiliar efficiency. No questions, no waste, no weakness. Slice thinly and serve with gratitude. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Hab-Safe Incense Snuffer",
+    "strDesc": "Extinguish devotional sticks without setting off air alarms or offending the shrine sensor. Brass finish, chain handle, satisfying little clink."
   },
   {
-    "strName": "Naval Boarding Drill Cards: Notice",
-    "strDesc": "Naval Boarding Drill Cards - family game, serious doctrine. Teach breach etiquette, bulkhead respect, and the proper order of heroic shouting. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Regimental Button Tin",
+    "strDesc": "Spare buttons for uniforms, school coats, work smocks, and the jacket your grandfather still calls campaign wear. Sorted by shade of seriousness."
   },
   {
-    "strName": "Naval Boarding Drill Cards: Vox Offer",
-    "strDesc": "Naval Boarding Drill Cards - family game, serious doctrine. Teach breach etiquette, bulkhead respect, and the proper order of heroic shouting. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Imperial Truth Correction Cards",
+    "strDesc": "For teachers, parents, and transit officers. Hold up a card when someone says something careless, confusing, or insufficiently reverent."
   },
   {
-    "strName": "Naval Boarding Drill Cards: Household Edition",
-    "strDesc": "Naval Boarding Drill Cards - family game, serious doctrine. Teach breach etiquette, bulkhead respect, and the proper order of heroic shouting. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Priestly Throat Lozenges",
+    "strDesc": "Honey, ash, and endurance for long sermons in dry chapels. Also useful for factory foremen and anyone assigned to read casualty honors aloud."
   },
   {
-    "strName": "Naval Boarding Drill Cards: Pilgrim Grade",
-    "strDesc": "Naval Boarding Drill Cards - family game, serious doctrine. Teach breach etiquette, bulkhead respect, and the proper order of heroic shouting. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Void Seal Lunch Wrap",
+    "strDesc": "Keeps food fresh in vacuum-adjacent workplaces and family picnics held too close to loading bays. Warning: not a substitute for actual void seals."
   },
   {
-    "strName": "Naval Boarding Drill Cards: Inspection Ready",
-    "strDesc": "Naval Boarding Drill Cards - family game, serious doctrine. Teach breach etiquette, bulkhead respect, and the proper order of heroic shouting. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Approved Pict Drama: The Last Form",
+    "strDesc": "A heroic clerk races against closing bells to file a regiment's ammunition request. Romance, duty, and three thrilling stamp-pad changes."
   },
   {
-    "strName": "Approved Recitation Beads: Notice",
-    "strDesc": "Approved Recitation Beads - count prayers, not doubts. Each bead is tested for durability under kneeling, marching, and mild orbital turbulence. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Gelt-Safe Offering Box",
+    "strDesc": "A household tithe box that counts coins aloud and compliments prompt deposits. Attempts to open early trigger a disappointed hymn."
   },
   {
-    "strName": "Approved Recitation Beads: Vox Offer",
-    "strDesc": "Approved Recitation Beads - count prayers, not doubts. Each bead is tested for durability under kneeling, marching, and mild orbital turbulence. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Shrine Floor Knee Pads",
+    "strDesc": "For citizens who kneel often, kneel long, or kneel on tile selected by someone without cartilage. Black cloth, gold trim, washable humility."
   },
   {
-    "strName": "Approved Recitation Beads: Household Edition",
-    "strDesc": "Approved Recitation Beads - count prayers, not doubts. Each bead is tested for durability under kneeling, marching, and mild orbital turbulence. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Skitarii Pattern Ear Guards",
+    "strDesc": "Reduce factory clang, drill chant echo, and neighbor arguments while still allowing orders through. Red enamel side plates sold separately."
   },
   {
-    "strName": "Approved Recitation Beads: Pilgrim Grade",
-    "strDesc": "Approved Recitation Beads - count prayers, not doubts. Each bead is tested for durability under kneeling, marching, and mild orbital turbulence. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Faithful Furnace Briquettes",
+    "strDesc": "Slow-burning heat bricks for cold habs and colder outlooks. Each stamped with a tiny Aquila that glows before becoming useful ash."
   },
   {
-    "strName": "Approved Recitation Beads: Inspection Ready",
-    "strDesc": "Approved Recitation Beads - count prayers, not doubts. Each bead is tested for durability under kneeling, marching, and mild orbital turbulence. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Arbites Evidence Envelope Pack",
+    "strDesc": "For fibers, strange notes, and the button you found beside the unauthorized symbol. Seal, label, submit, and do not keep souvenirs."
   },
   {
-    "strName": "Manufactorum Grip Gloves: Notice",
-    "strDesc": "Manufactorum Grip Gloves - hold your tool, hold your oath. Reinforced palms for workers who know productivity is a form of worship. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Pilgrim Anti-Drift Boot Magnets",
+    "strDesc": "For shrine ships, moon chapels, and any ceremony where floating away would be noticed. Tested on polished floors and anxious penitents."
   },
   {
-    "strName": "Manufactorum Grip Gloves: Vox Offer",
-    "strDesc": "Manufactorum Grip Gloves - hold your tool, hold your oath. Reinforced palms for workers who know productivity is a form of worship. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Ecclesiarchy Window Clings",
+    "strDesc": "Bright saints for dim hab windows. Peel, press, and transform any view of pipes into a view of pipes with moral supervision."
   },
   {
-    "strName": "Manufactorum Grip Gloves: Household Edition",
-    "strDesc": "Manufactorum Grip Gloves - hold your tool, hold your oath. Reinforced palms for workers who know productivity is a form of worship. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Departmento Munitorum Pencil Stub",
+    "strDesc": "Short, hard, and impossible to sharpen without permission. The official writing instrument of people who know erasers encourage weakness."
   },
   {
-    "strName": "Manufactorum Grip Gloves: Pilgrim Grade",
-    "strDesc": "Manufactorum Grip Gloves - hold your tool, hold your oath. Reinforced palms for workers who know productivity is a form of worship. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Red Planet Gear Oil",
+    "strDesc": "For hinges, lift doors, bicycle chains, and small domestic machines that squeal like they have seen the Omnissiah and want attention."
   },
   {
-    "strName": "Manufactorum Grip Gloves: Inspection Ready",
-    "strDesc": "Manufactorum Grip Gloves - hold your tool, hold your oath. Reinforced palms for workers who know productivity is a form of worship. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Solar Defense History Cards",
+    "strDesc": "Collect approved moments of human courage from the long defense of Sol. Trade duplicates carefully; hoarding heroes is poor manners."
   },
   {
-    "strName": "Hospitaller Triage Balm: Notice",
-    "strDesc": "Hospitaller Triage Balm - comfort for minor burns and major complaining. If symptoms persist, report to a medicae line and repent for taking the wound personally. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Aquila Transit Handle Wrap",
+    "strDesc": "Grip public rail handles with confidence and fewer shared mysteries. Embossed texture encourages both traction and brief devotional reflection."
   },
   {
-    "strName": "Hospitaller Triage Balm: Vox Offer",
-    "strDesc": "Hospitaller Triage Balm - comfort for minor burns and major complaining. If symptoms persist, report to a medicae line and repent for taking the wound personally. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Confession Appointment Pegboard",
+    "strDesc": "Organize household spiritual maintenance by name, date, and severity. Includes red pegs for urgent doubts and gold pegs for exemplary punctuality."
   },
   {
-    "strName": "Hospitaller Triage Balm: Household Edition",
-    "strDesc": "Hospitaller Triage Balm - comfort for minor burns and major complaining. If symptoms persist, report to a medicae line and repent for taking the wound personally. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Guard Issue Blanket Roll",
+    "strDesc": "Warm, scratchy, durable, and morally improving. If it feels too soft, you bought the civilian counterfeit."
   },
   {
-    "strName": "Hospitaller Triage Balm: Pilgrim Grade",
-    "strDesc": "Hospitaller Triage Balm - comfort for minor burns and major complaining. If symptoms persist, report to a medicae line and repent for taking the wound personally. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Approved Censer Cleaning Brush",
+    "strDesc": "Remove ash from family censers before buildup becomes smoke, smoke becomes alarms, and alarms become questions about your maintenance habits."
   },
   {
-    "strName": "Hospitaller Triage Balm: Inspection Ready",
-    "strDesc": "Hospitaller Triage Balm - comfort for minor burns and major complaining. If symptoms persist, report to a medicae line and repent for taking the wound personally. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Navis Nobilite Star Charm",
+    "strDesc": "A tiny licensed charm for travelers who respect navigators from a distance. Decorative only. Does not reveal routes, futures, or acceptable excuses."
   },
   {
-    "strName": "Battlefleet Solar Pin Badge: Notice",
-    "strDesc": "Battlefleet Solar Pin Badge - small brass pride for large Imperial victories. Wear it level, polish it often, and salute passing naval personnel before they ask. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Pious Companion Leash",
+    "strDesc": "For sanctioned household companions under fifteen kilograms and above suspicion. Woven with reflective Aquilas for evening walks to the shrine."
   },
   {
-    "strName": "Battlefleet Solar Pin Badge: Vox Offer",
-    "strDesc": "Battlefleet Solar Pin Badge - small brass pride for large Imperial victories. Wear it level, polish it often, and salute passing naval personnel before they ask. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Commissar's Black Tea",
+    "strDesc": "Sharp, tannic, and unwilling to negotiate with sleep. Best served without sugar unless victory has been formally announced."
   },
   {
-    "strName": "Battlefleet Solar Pin Badge: Household Edition",
-    "strDesc": "Battlefleet Solar Pin Badge - small brass pride for large Imperial victories. Wear it level, polish it often, and salute passing naval personnel before they ask. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Manufactorum Shift Dice",
+    "strDesc": "A harmless break-room novelty with faces marked Work, Pray, Stretch, Hydrate, Report, and Return To Work. Somehow Work appears most often."
   },
   {
-    "strName": "Battlefleet Solar Pin Badge: Pilgrim Grade",
-    "strDesc": "Battlefleet Solar Pin Badge - small brass pride for large Imperial victories. Wear it level, polish it often, and salute passing naval personnel before they ask. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Luna Dust Keepsake Jar",
+    "strDesc": "Contains genuine legally swept lunar dust suspended in resin. A modest reminder that even dust near Terra has better paperwork than most citizens."
   },
   {
-    "strName": "Battlefleet Solar Pin Badge: Inspection Ready",
-    "strDesc": "Battlefleet Solar Pin Badge - small brass pride for large Imperial victories. Wear it level, polish it often, and salute passing naval personnel before they ask. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Imperial Hymn Doorbell",
+    "strDesc": "Visitors announce themselves with three seconds of choir and one second of judgment. Select from Welcome, Inspection, or Why Are You Late."
   },
   {
-    "strName": "Lex Imperialis Pocket Extract: Notice",
-    "strDesc": "Lex Imperialis Pocket Extract - portable law for public transit. Perfect for checking whether the person beside you is merely rude or technically seditious. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Mechanicus Child's Cog Puzzle",
+    "strDesc": "Interlocking wooden gears teach patience, pattern recognition, and the quiet fear that one piece missing can halt an entire system."
   },
   {
-    "strName": "Lex Imperialis Pocket Extract: Vox Offer",
-    "strDesc": "Lex Imperialis Pocket Extract - portable law for public transit. Perfect for checking whether the person beside you is merely rude or technically seditious. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Tithe Ledger Family Edition",
+    "strDesc": "Track income, offerings, exemptions, and reasons those exemptions were denied. A clear household ledger is a restful household ledger."
   },
   {
-    "strName": "Lex Imperialis Pocket Extract: Household Edition",
-    "strDesc": "Lex Imperialis Pocket Extract - portable law for public transit. Perfect for checking whether the person beside you is merely rude or technically seditious. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Saint Drusus Travel Cup",
+    "strDesc": "Spill-resistant during trams, marches, and small explosions of civic enthusiasm. Lid clicks shut with a sound like final judgment."
   },
   {
-    "strName": "Lex Imperialis Pocket Extract: Pilgrim Grade",
-    "strDesc": "Lex Imperialis Pocket Extract - portable law for public transit. Perfect for checking whether the person beside you is merely rude or technically seditious. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Arbites Approved Window Lock",
+    "strDesc": "Keep thieves out, children in, and suspicious pamphlets from being tossed through the gap. Installation oath printed inside the box."
   },
   {
-    "strName": "Lex Imperialis Pocket Extract: Inspection Ready",
-    "strDesc": "Lex Imperialis Pocket Extract - portable law for public transit. Perfect for checking whether the person beside you is merely rude or technically seditious. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Solar Shrine Map Poster",
+    "strDesc": "Mark every chapel visited across the Imperial Solar system. Pins sold separately; pride included, provided it remains the humble kind."
   },
   {
-    "strName": "Martian Red Dust Polish: Notice",
-    "strDesc": "Martian Red Dust Polish - forge-world shine for boots and shrine rails. A respectful red finish for citizens who admire Mars from a legally appropriate distance. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Regimental March Practice Tiles",
+    "strDesc": "Lay them in a corridor and teach the household to step together. Excellent for children, recruits, and relatives who drift during hymns."
   },
   {
-    "strName": "Martian Red Dust Polish: Vox Offer",
-    "strDesc": "Martian Red Dust Polish - forge-world shine for boots and shrine rails. A respectful red finish for citizens who admire Mars from a legally appropriate distance. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Ministorum Soup Ladle",
+    "strDesc": "Deep enough for charity portions, sturdy enough for parish kitchens, and shaped to discourage second helpings before blessing."
   },
   {
-    "strName": "Martian Red Dust Polish: Household Edition",
-    "strDesc": "Martian Red Dust Polish - forge-world shine for boots and shrine rails. A respectful red finish for citizens who admire Mars from a legally appropriate distance. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Voidship Alarm Clock Relic Replica",
+    "strDesc": "Wake to klaxons, bells, or a calm voice saying pressure loss is no excuse for sloth. Snooze button requires a loyalty phrase."
   },
   {
-    "strName": "Martian Red Dust Polish: Pilgrim Grade",
-    "strDesc": "Martian Red Dust Polish - forge-world shine for boots and shrine rails. A respectful red finish for citizens who admire Mars from a legally appropriate distance. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Aquila Pattern Rain Barrel",
+    "strDesc": "Collect condenser runoff for approved cleaning, shrine plants, and emergency mop duty. Filter blessed, lid latched, ownership registered."
   },
   {
-    "strName": "Martian Red Dust Polish: Inspection Ready",
-    "strDesc": "Martian Red Dust Polish - forge-world shine for boots and shrine rails. A respectful red finish for citizens who admire Mars from a legally appropriate distance. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Sisters Militant Training Ribbon",
+    "strDesc": "Tie it around a practice blade, school satchel, or exercise pole. A quiet reminder that grace and violence both require discipline."
   },
   {
-    "strName": "Imperial Calendar of Saints: Notice",
-    "strDesc": "Imperial Calendar of Saints - never miss a fast, feast, or mandatory remembrance. Printed with extra margins for local decrees and emergency days of contrition. Now distributed through licensed hab-counters across the Solar domain."
+    "strName": "Administratum Apology Template Pack",
+    "strDesc": "For late filings, smudged seals, incorrect queues, and accidentally addressing a minor clerk as a senior minor clerk. Fill blanks carefully."
   },
   {
-    "strName": "Imperial Calendar of Saints: Vox Offer",
-    "strDesc": "Imperial Calendar of Saints - never miss a fast, feast, or mandatory remembrance. Printed with extra margins for local decrees and emergency days of contrition. Ask your supervisor about approved bulk allotments for work crews and chapel cells."
+    "strName": "Forge-Blessed Nail Clippers",
+    "strDesc": "Precision cutters for citizens whose hands must be clean near tools, keyboards, or sacred pamphlets. Includes a tiny file called Absolution."
   },
   {
-    "strName": "Imperial Calendar of Saints: Household Edition",
-    "strDesc": "Imperial Calendar of Saints - never miss a fast, feast, or mandatory remembrance. Printed with extra margins for local decrees and emergency days of contrition. Sized for loyal families, barracks corners, and citizens with a shelf and a conscience."
+    "strName": "Battlefield Soup Base",
+    "strDesc": "Just add water, heat, and stories you are legally allowed to tell. Tastes like pepper, iron, and somebody else's campaign."
   },
   {
-    "strName": "Imperial Calendar of Saints: Pilgrim Grade",
-    "strDesc": "Imperial Calendar of Saints - never miss a fast, feast, or mandatory remembrance. Printed with extra margins for local decrees and emergency days of contrition. Built for long lines, longer sermons, and the blessed patience of Imperial life."
+    "strName": "Household Shrine Dust Bellows",
+    "strDesc": "Puff dust away from icons without touching the sacred surface. Also useful for startling lazy candles into remembering their duty."
   },
   {
-    "strName": "Imperial Calendar of Saints: Inspection Ready",
-    "strDesc": "Imperial Calendar of Saints - never miss a fast, feast, or mandatory remembrance. Printed with extra margins for local decrees and emergency days of contrition. Carries the seals, stamps, and serial marks expected by vigilant authorities."
+    "strName": "Imperial Citizen Voice Lessons",
+    "strDesc": "Project from the diaphragm when reciting oaths, reporting crimes, or telling children that bedtime is not a negotiation."
   }
 ]
